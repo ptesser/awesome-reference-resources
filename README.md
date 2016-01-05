@@ -55,6 +55,8 @@
 
 
 ### Amazon Web Services
-- TODO
+
+#### ELB (Elastic Load Balancing)
+- ELB with a custom DNS name via AWS Route 53: http://docs.aws.amazon.com/ElasticLoadBalancing/latest/DeveloperGuide/using-domain-names-with-elb.html
 - TODO
 - TODO
