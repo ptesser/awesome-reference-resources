@@ -5,11 +5,19 @@
 
 ## Links
 
-### Books
-- A lot of free books if published before 2014, otherwise you must subscribe a premium account: https://www.geekbooks.me/category
+
+### Amazon Web Services
+
+#### ELB (Elastic Load Balancing)
+- ELB with a custom DNS name via AWS Route 53: http://docs.aws.amazon.com/ElasticLoadBalancing/latest/DeveloperGuide/using-domain-names-with-elb.html
+- TODO
+- TODO
 
 ### AngularJS 1.X
 - Angular Controller Inherintance: https://github.com/exratione/angularjs-controller-inheritance
+- Learn directive part 1: http://www.sitepoint.com/practical-guide-angularjs-directives/
+- Learn directive part 2: http://www.sitepoint.com/practical-guide-angularjs-directives-part-two/
+- Pre and Post linking in directive: https://github.com/angular/angular.js/wiki/Understanding-Directives
 - Access directive scope variables from directive controllers and vice versa: http://juristr.com/blog/2015/01/learning-ng-directives-access-scope-controller/
 - Improving REST with ngResource (not all official documentation's details, but more fluent): https://devdactic.com/improving-rest-with-ngresource/
 
@@ -35,10 +43,21 @@
 - Angular 2 education: https://github.com/timjacobi/angular2-education
 - Angular webpack starter: https://github.com/AngularClass/angular2-webpack-starter
 
+### Books
+- A lot of free books if published before 2014, otherwise you must subscribe a premium account: https://www.geekbooks.me/category
+
 ### CSS
 
 #### Media Query
 - Container Query article, new CSS feature (2016): http://d6u.github.io/react-container-query/
+
+
+### Git
+- Git flow, branching model: http://nvie.com/posts/a-successful-git-branching-model/
+- Basic introduction to git hooks: http://www.sitepoint.com/introduction-git-hooks/
+- Git aliases to improve own workflow: http://git-scm.com/book/en/v2/Git-Basics-Git-Aliases
+- Autocompletion for git bash commands: http://code-worrier.com/blog/autocomplete-git/
+- Use git in local without insert password everytime with https clone: http://stackoverflow.com/questions/5343068/is-there-a-way-to-skip-password-typing-when-using-https-github
 
 
 ### Ionic 1
@@ -64,9 +83,3 @@
 - JWT on PHP, article that shows step by step how use [php-jwt](https://github.com/firebase/php-jwt) : http://www.sitepoint.com/php-authorization-jwt-json-web-tokens/
 
 
-### Amazon Web Services
-
-#### ELB (Elastic Load Balancing)
-- ELB with a custom DNS name via AWS Route 53: http://docs.aws.amazon.com/ElasticLoadBalancing/latest/DeveloperGuide/using-domain-names-with-elb.html
-- TODO
-- TODO
