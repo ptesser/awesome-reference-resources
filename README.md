@@ -23,8 +23,8 @@
 
 
 #### Style Guide
-- John Papa (prefer): https://github.com/johnpapa/angular-styleguide
-- Todd Motto: https://github.com/toddmotto/angular-styleguide
+- [John Papa style guide](https://github.com/johnpapa/angular-styleguide) (prefer)
+- [Todd Motto style guide](https://github.com/toddmotto/angular-styleguide)
 
 #### Form validation
 - Learn basic validation: http://tutsnare.com/form-validation-with-angularjs/
@@ -35,13 +35,16 @@
 - Token Based Authentication for Single Page: https://stormpath.com/blog/token-auth-spa/
 
 #### Testing
-- Unit test for promises: http://www.bradoncode.com/blog/2015/07/13/unit-test-promises-angualrjs-q/
+- [Unit test for promises](http://www.bradoncode.com/blog/2015/07/13/unit-test-promises-angualrjs-q/)
 - TODO
 
 ### AngularJS 2.X
-- Angular awesome: https://github.com/AngularClass/awesome-angular2/blob/gh-pages/README.md#angular-2-features
-- Angular 2 education: https://github.com/timjacobi/angular2-education
-- Angular webpack starter: https://github.com/AngularClass/angular2-webpack-starter
+- [Angular awesome](https://github.com/AngularClass/awesome-angular2/blob/gh-pages/README.md#angular-2-features)
+- [Angular 2 education](https://github.com/timjacobi/angular2-education)
+- [Angular webpack starter](https://github.com/AngularClass/angular2-webpack-starter)
+
+### Bash
+- [Art of command line](https://github.com/jlevy/the-art-of-command-line/blob/master/README.md)
 
 ### Books
 - A lot of free books if published before 2014, otherwise you must subscribe a premium account: https://www.geekbooks.me/category
