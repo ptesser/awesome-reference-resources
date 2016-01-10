@@ -39,6 +39,7 @@
 - [Angular awesome](https://github.com/AngularClass/awesome-angular2/blob/gh-pages/README.md#angular-2-features)
 - [Angular 2 education](https://github.com/timjacobi/angular2-education)
 - [Angular webpack starter](https://github.com/AngularClass/angular2-webpack-starter)
+- [Todo list app](http://blog.scottlogic.com/2015/12/07/angular-2.html): article that shows how implement a simple todo web app in angular 2.0.0-beta.0
 
 ### Bash
 - [Art of command line](https://github.com/jlevy/the-art-of-command-line/blob/master/README.md)
@@ -48,8 +49,16 @@
 
 ### CSS
 
+#### Naming convention
+- [BEM CSS Tricks](https://css-tricks.com/bem-101/): article that explains BEM's methodology
+- [BEMIT naming](http://www.jamesturneronline.net/beautifulweb/bemit-naming-convention.html): mix of BEM and ITCSS naming conventions
+
+
 #### Media Query
 - [Container Query](http://d6u.github.io/react-container-query/): article about a new CSS feature (2016)
+
+### Design Patterns
+- [Flux vs MVC](https://medium.com/hacking-and-gonzo/flux-vs-mvc-design-patterns-57b28c0f71b7#.szg4ax6lp): article that talks about a new Flux pattern to structure client side applications and how it relates to the MVC pattern
 
 
 ### Git
