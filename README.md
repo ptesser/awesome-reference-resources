@@ -23,6 +23,7 @@
 #### Style Guide
 - [John Papa style guide](https://github.com/johnpapa/angular-styleguide) (prefer)
 - [Todd Motto style guide](https://github.com/toddmotto/angular-styleguide)
+- [Official Git Commit Message Conventions](https://docs.google.com/document/d/1QrDFcIiPjSLDn3EL15IJygNPiHORgU1_OOAqWjiDU5Y/edit#)
 
 #### Form validation
 - [Learn basic validation](http://tutsnare.com/form-validation-with-angularjs/)
@@ -36,6 +37,7 @@
 - [Unit test for promises](http://www.bradoncode.com/blog/2015/07/13/unit-test-promises-angualrjs-q/)
 
 ### AngularJS 2.X
+- [Main goals of Angular 2](http://blog.jhades.org/introduction-to-angular2-the-main-goals/) (alpha version - 18 May 2015) 
 - [Angular awesome](https://github.com/AngularClass/awesome-angular2/blob/gh-pages/README.md#angular-2-features)
 - [Angular 2 education](https://github.com/timjacobi/angular2-education)
 - [Angular webpack starter](https://github.com/AngularClass/angular2-webpack-starter)
@@ -81,9 +83,10 @@
 - [Subtle JSON Vulnerability](http://haacked.com/archive/2008/11/20/anatomy-of-a-subtle-json-vulnerability.aspx/)
 
 ### PHP
+- [PHPMailer explain](http://www.sitepoint.com/sending-emails-php-phpmailer/): an article that explain how use PHPMailer instead of native PHP's method mail()
 
 #### Framework
-- [Flight](http://flightphp.com/): A micro framework to manage routing
+- [Flight](http://flightphp.com/): a micro framework to manage routing
 
 #### Security
 - [OAuth2 Server library](http://bshaffer.github.io/oauth2-server-php-docs/)
