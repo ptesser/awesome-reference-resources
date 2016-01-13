@@ -84,6 +84,9 @@
 ### JSON (Javascript Notation Object)
 - [Subtle JSON Vulnerability](http://haacked.com/archive/2008/11/20/anatomy-of-a-subtle-json-vulnerability.aspx/)
 
+### Javascript
+- [Explain event loop](https://developer.mozilla.org/it/docs/Web/JavaScript/EventLoop)
+
 ### PHP
 - [PHPMailer explain](http://www.sitepoint.com/sending-emails-php-phpmailer/): an article that explain how use PHPMailer instead of native PHP's method mail()
 
