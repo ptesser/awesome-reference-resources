@@ -75,8 +75,12 @@
 
 ### Ionic 1
 
+#### Resources
+- [Ionicons, icons for Ionic](http://ionicons.com/)
+
 #### Tutorials
 - [Scotch aritcle to create a Todo app](https://scotch.io/tutorials/create-your-first-mobile-app-with-angularjs-and-ionic)
+- [Native view animations tutorial](http://www.gajotres.net/handling-native-view-animations-with-ionic-framework/)
 
 #### Issues
 - [Android SDK version target](http://stackoverflow.com/questions/24931155/cordova-3-5-0-install-error-please-install-android-target-19)
