@@ -45,6 +45,9 @@
 - [Angular webpack starter](https://github.com/AngularClass/angular2-webpack-starter)
 - [Todo list app](http://blog.scottlogic.com/2015/12/07/angular-2.html): article that shows how implement a simple todo web app in angular 2.0.0-beta.0
 
+#### Video
+- [Thinking in Angular 2](https://www.youtube.com/watch?v=XlqoPpLMdwY): an overview of key Angular 2.0 concepts for Angular 1.0 and traditional javascript developers - with Rangle's Angular 2 Team 
+
 ### Bash
 - [Art of command line](https://github.com/jlevy/the-art-of-command-line/blob/master/README.md)
 
