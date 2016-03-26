@@ -11,8 +11,8 @@
 #### ELB (Elastic Load Balancing)
 - [ELB with a custom DNS name via AWS Route 53](http://docs.aws.amazon.com/ElasticLoadBalancing/latest/DeveloperGuide/using-domain-names-with-elb.html)
 
-### Angular
-Link [here](angular/README.md) for Angular's references and resoruces.
+### AngularJS
+Link [here](angular/README.md) for AngularJS's references and resoruces.
 
 ### Bash
 - [Art of command line](https://github.com/jlevy/the-art-of-command-line/blob/master/README.md)
