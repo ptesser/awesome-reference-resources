@@ -11,6 +11,9 @@
 #### ELB (Elastic Load Balancing)
 - [ELB with a custom DNS name via AWS Route 53](http://docs.aws.amazon.com/ElasticLoadBalancing/latest/DeveloperGuide/using-domain-names-with-elb.html)
 
+### Angular
+Link [here](angular/README.md)
+
 ### AngularJS 1.X
 - [Angular Controller Inherintance](https://github.com/exratione/angularjs-controller-inheritance)
 - [Learn directive part 1](http://www.sitepoint.com/practical-guide-angularjs-directives/)
