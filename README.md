@@ -18,7 +18,8 @@
 - [Pre and Post linking in directive](https://github.com/angular/angular.js/wiki/Understanding-Directives)
 - [Access directive scope variables from directive controllers and vice versa](http://juristr.com/blog/2015/01/learning-ng-directives-access-scope-controller/)
 - [Improving REST with ngResource](https://devdactic.com/improving-rest-with-ngresource/) (not all official documentation's details, but more fluent)
-
+- [Building Angular with Flux pattern](https://medium.com/@gerard.sans/angular-using-flux-6a835c9c0656#.yy80cjpsj)
+- [Angular with RxJS, introduction](https://medium.com/google-developer-experts/angular-introduction-to-reactive-extensions-rxjs-a86a7430a61f#.fehxo0888)
 
 #### Style Guide
 - [John Papa style guide](https://github.com/johnpapa/angular-styleguide) (prefer)
@@ -46,7 +47,7 @@
 - [Todo list app](http://blog.scottlogic.com/2015/12/07/angular-2.html): article that shows how implement a simple todo web app in angular 2.0.0-beta.0
 
 #### Video
-- [Thinking in Angular 2](https://www.youtube.com/watch?v=XlqoPpLMdwY): an overview of key Angular 2.0 concepts for Angular 1.0 and traditional javascript developers - with Rangle's Angular 2 Team 
+- [Thinking in Angular 2](https://www.youtube.com/watch?v=XlqoPpLMdwY): an overview of key Angular 2.0 concepts for Angular 1.0 and traditional javascript developers - with Rangle's Angular 2 Team
 
 ### Bash
 - [Art of command line](https://github.com/jlevy/the-art-of-command-line/blob/master/README.md)
@@ -112,6 +113,4 @@
 ### Reactive Programming
 
 #### Video
-- [RxJS explained by  Ben Lesh](https://www.youtube.com/watch?v=KOOT7BArVHQ) 
-
-
+- [RxJS explained by  Ben Lesh](https://www.youtube.com/watch?v=KOOT7BArVHQ)
