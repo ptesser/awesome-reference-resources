@@ -1,3 +1,7 @@
+# Angular References and Resources
+
+## Links
+
 ### AngularJS 1.X
 - [Angular Controller Inherintance](https://github.com/exratione/angularjs-controller-inheritance)
 - [Learn directive part 1](http://www.sitepoint.com/practical-guide-angularjs-directives/)
