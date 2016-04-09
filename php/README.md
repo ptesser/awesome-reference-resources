@@ -3,6 +3,7 @@
 ## Links
 
 - [PHPMailer explain](http://www.sitepoint.com/sending-emails-php-phpmailer/): an article that explain how use PHPMailer instead of native PHP's method mail()
+- [Design Pattern](https://github.com/domnikl/DesignPatternsPHP)
 
 #### Framework
 - [Flight](http://flightphp.com/): a micro framework to manage routing

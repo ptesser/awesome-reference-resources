@@ -66,6 +66,10 @@ Link [here](angular/README.md) for AngularJS's references and resoruces.
 ### PHP
 Link [here](php/README.md) for PHP's references and resources.
 
+### Wordpress
+- [Secure WP](http://code.tutsplus.com/articles/10-steps-to-securing-your-wordpress-installation--wp-21579)
+- 
+
 ### Reactive Programming
 
 #### Video
