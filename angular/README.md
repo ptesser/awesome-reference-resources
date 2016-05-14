@@ -11,7 +11,7 @@
 - [Improving REST with ngResource](https://devdactic.com/improving-rest-with-ngresource/) (not all official documentation's details, but more fluent)
 - [Building Angular with Flux pattern](https://medium.com/@gerard.sans/angular-using-flux-6a835c9c0656#.yy80cjpsj)
 - [Angular with RxJS, introduction](https://medium.com/google-developer-experts/angular-introduction-to-reactive-extensions-rxjs-a86a7430a61f#.fehxo0888)
-
+- [Demo of Angular 1 with component like Angular 2](https://github.com/petebacondarwin/ng1-component-demo/tree/master/app)
 
 
 #### Style Guide
