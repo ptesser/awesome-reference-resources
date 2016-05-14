@@ -14,6 +14,9 @@
 ### AngularJS
 Link [here](angular/README.md) for AngularJS's references and resoruces.
 
+### Apache
+- [Move to HTTP2](https://icing.github.io/mod_h2/howto.html)
+
 ### Bash
 - [Art of command line](https://github.com/jlevy/the-art-of-command-line/blob/master/README.md)
 
