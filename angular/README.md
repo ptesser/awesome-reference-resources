@@ -40,7 +40,7 @@
 - [Angular webpack starter](https://github.com/AngularClass/angular2-webpack-starter)
 - [Todo list app](http://blog.scottlogic.com/2015/12/07/angular-2.html): article that shows how implement a simple todo web app in angular 2.0.0-beta.0
 - [Best practice change detector - Lucidchart](https://www.lucidchart.com/techblog/2016/05/04/angular-2-best-practices-change-detector-performance/?platform=hootsuite)
-- [nfFor](https://johnpapa.net/angular-2-ngfor/)
+- [nfFor by John Papa](https://johnpapa.net/angular-2-ngfor/)
 
 #### Video
 - [Thinking in Angular 2](https://www.youtube.com/watch?v=XlqoPpLMdwY): an overview of key Angular 2.0 concepts for Angular 1.0 and traditional javascript developers - with Rangle's Angular 2 Team
