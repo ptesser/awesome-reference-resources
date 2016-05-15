@@ -33,6 +33,7 @@
 ### AngularJS 2.X
 - [Main goals of Angular 2](http://blog.jhades.org/introduction-to-angular2-the-main-goals/) (alpha version - 18 May 2015)
 - [Change Detection by Victor Savkin](http://victorsavkin.com/post/110170125256/change-detection-in-angular-2): article that talks in depth about the Angular 2 change detection system
+- [Immutability and Encapsulation by Victor Savkin](http://victorsavkin.com/post/133936129316/angular-immutability-and-encapsulation)
 - [Template syntax by Victor Savkin](http://victorsavkin.com/post/119943127151/angular-2-template-syntax): article that talks about Angular 2 template syntax
 - [Angular awesome](https://github.com/AngularClass/awesome-angular2/blob/gh-pages/README.md#angular-2-features)
 - [Angular 2 education](https://github.com/timjacobi/angular2-education)
