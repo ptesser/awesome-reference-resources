@@ -75,5 +75,7 @@ Link [here](php/README.md) for PHP's references and resources.
 
 ### Reactive Programming
 
+- [When to use RxJS](https://xgrommx.github.io/rx-book/content/guidelines/when/index.html#use-rxjs-for-orchestrating-asynchronous-and-event-based-computations)
+
 #### Video
 - [RxJS explained by  Ben Lesh](https://www.youtube.com/watch?v=KOOT7BArVHQ)
