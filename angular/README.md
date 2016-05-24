@@ -42,6 +42,8 @@
 - [Best practice change detector - Lucidchart](https://www.lucidchart.com/techblog/2016/05/04/angular-2-best-practices-change-detector-performance/?platform=hootsuite)
 - [nfFor by John Papa](https://johnpapa.net/angular-2-ngfor/)
 - [Taking andvantage of Observable](http://blog.thoughtram.io/angular/2016/01/06/taking-advantage-of-observables-in-angular2.html): article about why use Obsearvable instead of Promise. I don't like the way that he uses two obsearvable instead only one in WikipediaService. For me he can use **debounceTime** directly in search method.
+- [Routing in RC1 release](https://coryrylan.com/blog/introduction-to-angular-2-routing)
+- [General overview](http://codingjam.it/introduzione-ad-angular-2-parte-2/): article is in italian
 
 #### Video
 - [Thinking in Angular 2](https://www.youtube.com/watch?v=XlqoPpLMdwY): an overview of key Angular 2.0 concepts for Angular 1.0 and traditional javascript developers - with Rangle's Angular 2 Team
