@@ -62,6 +62,7 @@ Link [here](angular/README.md) for AngularJS's references and resoruces.
 - [Subtle JSON Vulnerability](http://haacked.com/archive/2008/11/20/anatomy-of-a-subtle-json-vulnerability.aspx/)
 
 ### Javascript
+- [Explain scope and closure](http://codingjam.it/di-non-sapere-javascript-scope-e-closures/): article is in italian
 - [Explain event loop](https://developer.mozilla.org/it/docs/Web/JavaScript/EventLoop)
 - [Bitcoin and Javascript 1](http://html5today.it/tutorial/bitcoin-e-javascript-introduzione-a-bitcoinjs-installazione/): introduction and first steps
 - [Bitcoin and Javascript 2](http://html5today.it/tutorial/bitcoin-e-javascript-creiamo-la-nostra-prima-transazione-con-bitcoinjs/): first transaction
