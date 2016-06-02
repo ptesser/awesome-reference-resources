@@ -79,5 +79,9 @@ Link [here](php/README.md) for PHP's references and resources.
 
 - [When to use RxJS](https://xgrommx.github.io/rx-book/content/guidelines/when/index.html#use-rxjs-for-orchestrating-asynchronous-and-event-based-computations)
 
+### REST
+- [Best practice to design API](http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
+- [Nouns are good, verbs are bad](http://apigee.com/about/blog/technology/restful-api-design-nouns-are-good-verbs-are-bad)
+
 #### Video
 - [RxJS explained by  Ben Lesh](https://www.youtube.com/watch?v=KOOT7BArVHQ)
