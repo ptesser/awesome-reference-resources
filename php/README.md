@@ -16,3 +16,4 @@
 - [php-jwt](https://github.com/firebase/php-jwt) (not good documentation, follow [PHP Authorization with JWT](http://www.sitepoint.com/php-authorization-jwt-json-web-tokens/) article)
 - [JWT on PHP](http://www.sitepoint.com/php-authorization-jwt-json-web-tokens/): article that shows step by step how use [php-jwt](https://github.com/firebase/php-jwt)
 - [MIMT Bettercap](https://github.com/evilsocket/bettercap): an open source  tool to perform various types of Man-In-The-Middle attacks against the network.
+- [JWT with Lumen](https://laravelista.com/json-web-token-authentication-for-lumen/)
