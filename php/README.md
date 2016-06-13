@@ -9,7 +9,8 @@
 - [Chat comunication one to one - Stackoverflow](http://stackoverflow.com/questions/30953610/how-to-send-messages-to-particular-users-ratchet-php-websocket)
 
 #### Framework
-- [Flight](http://flightphp.com/): a micro framework to manage routing
+- [Flight](http://flightphp.com/): a micro framework to manage routing;
+- [Web Application with Lumen](http://loige.co/developing-a-web-application-with-lumen-and-mysql/): simple article that explain how configure a simple DB MySQL in Lumen;
 
 #### Security
 - [OAuth2 Server library](http://bshaffer.github.io/oauth2-server-php-docs/)
