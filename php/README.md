@@ -1,6 +1,8 @@
 # PHP References and Resources
 
 ## Links
+- [6 Tips for Web Performance](http://slides.com/lucianomammino/6tips-web-perf#/): nice slides with simple and clear concepts about how to improve performance in web application. Programming language used is PHP so I insert it in this section;
+- [Explain 6 Tips for Web Performance](http://html5today.it/tutorial/performance-6-regole-sviluppare-applicazioni-web/): it explains the concepts described in the previuos slides. Article is in italian language;
 
 - [PHPMailer explain](http://www.sitepoint.com/sending-emails-php-phpmailer/): an article that explain how use PHPMailer instead of native PHP's method mail()
 - [Design Pattern](https://github.com/domnikl/DesignPatternsPHP)
