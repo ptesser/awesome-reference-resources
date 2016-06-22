@@ -8,6 +8,9 @@
 
 ### Amazon Web Services
 
+### CLI
+- [Creating new EC2 Instance via CLI](https://www.youtube.com/watch?v=3Rj1jYLO214)
+
 #### ELB (Elastic Load Balancing)
 - [ELB with a custom DNS name via AWS Route 53](http://docs.aws.amazon.com/ElasticLoadBalancing/latest/DeveloperGuide/using-domain-names-with-elb.html)
 
