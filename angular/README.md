@@ -45,6 +45,7 @@
 - [Routing in RC1 release](https://coryrylan.com/blog/introduction-to-angular-2-routing)
 - [General overview](http://codingjam.it/introduzione-ad-angular-2-parte-2/): article is in italian
 - [Reactive programming for Angular 2](http://blog.angular-university.io/functional-reactive-programming-for-angular-2-developers-rxjs-and-observables/): post that it is going to go over the concept of Functional Reactive Programming from the point of view of an Angular 2 developer
+- [Immutable.js and Redux with Angular 2](http://houssein.me/redux/immutablejs/angular2/2016/07/04/angular2-with-immutablejs-and-redux.html): article with a tutorial to make a contact list following Redux's pattern and use Immutable structures
 
 #### Video
 - [Thinking in Angular 2](https://www.youtube.com/watch?v=XlqoPpLMdwY): an overview of key Angular 2.0 concepts for Angular 1.0 and traditional javascript developers - with Rangle's Angular 2 Team
