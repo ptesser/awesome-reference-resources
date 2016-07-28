@@ -6,6 +6,7 @@
 
 - [PHPMailer explain](http://www.sitepoint.com/sending-emails-php-phpmailer/): an article that explain how use PHPMailer instead of native PHP's method mail()
 - [Design Pattern](https://github.com/domnikl/DesignPatternsPHP)
+- [Manage env in PHP](https://github.com/vlucas/phpdotenv): simple library useful to manage environment like localhost, staging or production;
 - [Laravel 4 with a real time chat made with Ratchet](https://medium.com/laravel-4/laravel-4-real-time-chat-eaa550829538#.om8bsw3la) 
 - [Build a multi chat with Ratchet](https://www.sitepoint.com/how-to-quickly-build-a-chat-app-with-ratchet/)
 - [Chat comunication one to one - Stackoverflow](http://stackoverflow.com/questions/30953610/how-to-send-messages-to-particular-users-ratchet-php-websocket)
