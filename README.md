@@ -39,7 +39,8 @@ Link [here](angular/README.md) for AngularJS's references and resoruces.
 
 ### Design Patterns
 - [Flux vs MVC](https://medium.com/hacking-and-gonzo/flux-vs-mvc-design-patterns-57b28c0f71b7#.szg4ax6lp): article that talks about a new Flux pattern to structure client side applications and how it relates to the MVC pattern
-
+- [A cartoon intro to Redux](https://code-cartoons.com/a-cartoon-intro-to-redux-3afb775501a6#.aksa2g9zf)
+- [A cartoon guide to Flux](https://code-cartoons.com/a-cartoon-guide-to-flux-6157355ab207#.vcp7vp88n)
 
 ### Git
 - [Git flow, branching model](http://nvie.com/posts/a-successful-git-branching-model/)
