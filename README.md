@@ -95,4 +95,6 @@ Link [here](php/README.md) for PHP's references and resources.
 - [Best practice to design API](http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
 - [Nouns are good, verbs are bad](http://apigee.com/about/blog/technology/restful-api-design-nouns-are-good-verbs-are-bad)
 
+### Security
 
+- [Explain JWT video](https://www.youtube.com/watch?v=WzfJgCOMIsU). he use AngularJs as a front-end framework, but it's the same thing for the other systems.
