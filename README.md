@@ -41,6 +41,7 @@ Link [here](angular/README.md) for AngularJS's references and resoruces.
 - [Flux vs MVC](https://medium.com/hacking-and-gonzo/flux-vs-mvc-design-patterns-57b28c0f71b7#.szg4ax6lp): article that talks about a new Flux pattern to structure client side applications and how it relates to the MVC pattern
 - [A cartoon intro to Redux](https://code-cartoons.com/a-cartoon-intro-to-redux-3afb775501a6#.aksa2g9zf)
 - [A cartoon guide to Flux](https://code-cartoons.com/a-cartoon-guide-to-flux-6157355ab207#.vcp7vp88n)
+- [Smart and Dumb Components](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0#.rfzpd427p)
 
 ### Git
 - [Git flow, branching model](http://nvie.com/posts/a-successful-git-branching-model/)
@@ -48,7 +49,6 @@ Link [here](angular/README.md) for AngularJS's references and resoruces.
 - [Git aliases to improve own workflow](http://git-scm.com/book/en/v2/Git-Basics-Git-Aliases)
 - [Autocompletion for git bash commands](http://code-worrier.com/blog/autocomplete-git/)
 - [Use git in local without insert password everytime with https clone](http://stackoverflow.com/questions/5343068/is-there-a-way-to-skip-password-typing-when-using-https-github)
-
 
 ### Ionic 1
 
