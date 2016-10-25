@@ -14,6 +14,7 @@
 - [Demo of Angular 1 with component like Angular 2](https://github.com/petebacondarwin/ng1-component-demo/tree/master/app)
 - [Introduction to Redux with Angular 2 and Typescript](http://blog.ng-book.com/introduction-to-redux-with-typescript-and-angular-2/)
 - [NG6 Starter](https://github.com/AngularClass/NG6-starter): use to follow [Todd Motto style guide](https://github.com/toddmotto/angular-styleguide)
+- [Angular 1 Component Based Architecture](http://blog.grossman.io/angular-1-component-based-architecture-2/): explain Todd Motto's style guide and ng6 starter
 
 #### Style Guide
 - [John Papa style guide](https://github.com/johnpapa/angular-styleguide) (prefer)
