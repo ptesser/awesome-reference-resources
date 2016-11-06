@@ -38,6 +38,7 @@ Link [here](angular/README.md) for AngularJS's references and resoruces.
 - [Container Query](http://d6u.github.io/react-container-query/): article about a new CSS feature (2016)
 
 ### Design Patterns
+- [Obsever](https://dellabate.wordpress.com/2012/03/03/gof-patterns-observer/): a simple article that explain Observer pattern in italian language
 - [Flux vs MVC](https://medium.com/hacking-and-gonzo/flux-vs-mvc-design-patterns-57b28c0f71b7#.szg4ax6lp): article that talks about a new Flux pattern to structure client side applications and how it relates to the MVC pattern
 - [A cartoon intro to Redux](https://code-cartoons.com/a-cartoon-intro-to-redux-3afb775501a6#.aksa2g9zf)
 - [A cartoon guide to Flux](https://code-cartoons.com/a-cartoon-guide-to-flux-6157355ab207#.vcp7vp88n)
