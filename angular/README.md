@@ -54,3 +54,8 @@
 
 #### Video
 - [Thinking in Angular 2](https://www.youtube.com/watch?v=XlqoPpLMdwY): an overview of key Angular 2.0 concepts for Angular 1.0 and traditional javascript developers - with Rangle's Angular 2 Team
+
+
+### Deploy
+
+- [Deploy Angular app in S3 bucket](https://medium.com/wolox-driving-innovation/deploy-your-angularjs-app-to-aws-s3-with-ssl-3635a62533ab#.4o5fpn4fu)
