@@ -33,6 +33,9 @@ Link [here](angular/README.md) for AngularJS's references and resoruces.
 - [BEM CSS Tricks](https://css-tricks.com/bem-101/): article that explains BEM's methodology
 - [BEMIT naming](http://www.jamesturneronline.net/beautifulweb/bemit-naming-convention.html): mix of BEM and ITCSS naming conventions
 
+#### JS
+- [Style Components](https://github.com/styled-components/styled-components): use the best bits of ES6 and CSS to style your apps without stress;
+- [Css in JS](https://github.com/MicheleBertoli/css-in-js): repository with all different libraries about this theme;
 
 #### Media Query
 - [Container Query](http://d6u.github.io/react-container-query/): article about a new CSS feature (2016)
