@@ -14,6 +14,8 @@
 #### Framework
 - [Flight](http://flightphp.com/): a micro framework to manage routing;
 - [Web Application with Lumen](http://loige.co/developing-a-web-application-with-lumen-and-mysql/): simple article that explain how configure a simple DB MySQL in Lumen;
+- [Migrations in Laravel](http://laravelbook.com/laravel-migrations-managing-databases/)
+- [Multiple connections in Laravel](http://fideloper.com/laravel-multiple-database-connections)
 
 #### Security
 - [OAuth2 Server library](http://bshaffer.github.io/oauth2-server-php-docs/)
