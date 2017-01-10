@@ -18,6 +18,9 @@
 - [Functional Light in JS](https://github.com/getify/Functional-Light-JS)
 - [Introuce composable functional](https://egghead.io/courses/professor-frisby-introduces-composable-functional-javascript)
 
+### Reactive Programming
+- [Obsvervables under the hood](https://netbasal.com/javascript-observables-under-the-hood-2423f760584#.pu76rnj3a)
+
 ### Bitcoin
 
 - [Bitcoin and Javascript 1](http://html5today.it/tutorial/bitcoin-e-javascript-introduzione-a-bitcoinjs-installazione/): introduction and first steps
