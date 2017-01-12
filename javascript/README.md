@@ -8,6 +8,7 @@
 - [Explain event loop](https://developer.mozilla.org/it/docs/Web/JavaScript/EventLoop)
 - [The good parts - Video](https://www.youtube.com/watch?v=hQVTIJBZook)
 - [You don't know JS](https://github.com/getify/You-Dont-Know-JS)
+- [Clean Code](https://github.com/ryanmcdermott/clean-code-javascript)
 
 ### ES6
 
