@@ -27,11 +27,14 @@ Link [here](angular/README.md) for AngularJS's references and resoruces.
 - A lot of free books if published before 2014, otherwise you must subscribe a premium account: https://www.geekbooks.me/category
 
 ### CSS
-- [Maintainable CSS](http://maintainablecss.com/chapters/reuse/): an approach to architecting and writing CSS that helps you and your team write modular, scalable and maintainable code. It’s a set of principles, guides and conventions that help you write CSS for large or small scale websites.
+- [Maintainable CSS](http://maintainablecss.com/chapters/reuse/): an approach to architecting and writing CSS that helps you and your team write modular, scalable and maintainable code. It’s a set of principles, guides and conventions that help you write CSS for large or small scale websites;
+- [Airbnb CSS approach](https://github.com/airbnb/css)
 
 #### Naming convention
 - [BEM CSS Tricks](https://css-tricks.com/bem-101/): article that explains BEM's methodology
 - [BEMIT naming](http://www.jamesturneronline.net/beautifulweb/bemit-naming-convention.html): mix of BEM and ITCSS naming conventions
+- [BEM, OOCSS, SMACSS styleguide](http://timhartmann.net/frontend-development/scss-styleguide-with-bem-oocss-smacss/)
+
 
 #### JS
 - [Style Components](https://github.com/styled-components/styled-components): use the best bits of ES6 and CSS to style your apps without stress;
