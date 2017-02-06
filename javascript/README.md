@@ -9,6 +9,7 @@
 - [The good parts - Video](https://www.youtube.com/watch?v=hQVTIJBZook)
 - [You don't know JS](https://github.com/getify/You-Dont-Know-JS)
 - [Clean Code](https://github.com/ryanmcdermott/clean-code-javascript)
+- [Js from scratch](https://github.com/verekia/js-stack-from-scratch): modern JavaScript stack tutorial
 
 ### ES6
 
@@ -26,3 +27,7 @@
 
 - [Bitcoin and Javascript 1](http://html5today.it/tutorial/bitcoin-e-javascript-introduzione-a-bitcoinjs-installazione/): introduction and first steps
 - [Bitcoin and Javascript 2](http://html5today.it/tutorial/bitcoin-e-javascript-creiamo-la-nostra-prima-transazione-con-bitcoinjs/): first transaction
+
+### CLI
+
+- [Webpack dashboard CLI](https://github.com/FormidableLabs/webpack-dashboard)
