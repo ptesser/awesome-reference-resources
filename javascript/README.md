@@ -19,6 +19,7 @@
 
 - [Functional Light in JS](https://github.com/getify/Functional-Light-JS)
 - [Introuce composable functional](https://egghead.io/courses/professor-frisby-introduces-composable-functional-javascript)
+- [Immutability using Redux](https://www.toptal.com/javascript/immutability-in-javascript-using-redux)
 
 ### Reactive Programming
 - [Obsvervables under the hood](https://netbasal.com/javascript-observables-under-the-hood-2423f760584#.pu76rnj3a)
