@@ -11,7 +11,7 @@
 - [Build a multi chat with Ratchet](https://www.sitepoint.com/how-to-quickly-build-a-chat-app-with-ratchet/)
 - [Chat comunication one to one - Stackoverflow](http://stackoverflow.com/questions/30953610/how-to-send-messages-to-particular-users-ratchet-php-websocket)
 
-#### Framework
+### Framework
 
 - [Flight](http://flightphp.com/): a micro framework to manage routing;
 
@@ -23,10 +23,15 @@
 - [Multiple connections in Laravel](http://fideloper.com/laravel-multiple-database-connections)
 - [Web Application with Lumen](http://loige.co/developing-a-web-application-with-lumen-and-mysql/): simple article that explain how configure a simple DB MySQL in Lumen;
 
-#### Security
+### Security
 - [OAuth2 Server library](http://bshaffer.github.io/oauth2-server-php-docs/)
 - [php-jwt](https://github.com/firebase/php-jwt) (not good documentation, follow [PHP Authorization with JWT](http://www.sitepoint.com/php-authorization-jwt-json-web-tokens/) article)
 - [JWT on PHP](http://www.sitepoint.com/php-authorization-jwt-json-web-tokens/): article that shows step by step how use [php-jwt](https://github.com/firebase/php-jwt)
 - [MIMT Bettercap](https://github.com/evilsocket/bettercap): an open source  tool to perform various types of Man-In-The-Middle attacks against the network.
 - [JWT with Lumen](https://laravelista.com/json-web-token-authentication-for-lumen/)
 - [OAuth 2 with Lumen](http://esbenp.github.io/2015/05/26/lumen-web-api-oauth-2-authentication/)
+
+## IDE
+
+- [Configure XDebug with PHPStorm and MAMP](http://www.codechewing.com/library/debug-php-with-phpstorm-xdebug-mamp/)
+- [Debbugging REST API in PHPStorm 11](http://www.codechewing.com/library/debug-php-with-phpstorm-xdebug-mamp/)
