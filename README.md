@@ -23,6 +23,10 @@ Link [here](angular/README.md) for AngularJS's references and resoruces.
 ### Bash
 - [Art of command line](https://github.com/jlevy/the-art-of-command-line/blob/master/README.md)
 
+### Bitcoin and Ethereum
+
+Link [here](bitcoin-ethereum/README.md) for Bitcoin and Ethereum's references and resources.
+
 ### Books
 - A lot of free books if published before 2014, otherwise you must subscribe a premium account: https://www.geekbooks.me/category
 
