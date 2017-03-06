@@ -15,6 +15,7 @@
 - [Introduction to Redux with Angular 2 and Typescript](http://blog.ng-book.com/introduction-to-redux-with-typescript-and-angular-2/)
 - [NG6 Starter](https://github.com/AngularClass/NG6-starter): use to follow [Todd Motto style guide](https://github.com/toddmotto/angular-styleguide)
 - [Angular 1 Component Based Architecture](http://blog.grossman.io/angular-1-component-based-architecture-2/): explain Todd Motto's style guide and ng6 starter
+- [D3 Charts, Linear options](http://www.d3noob.org/2013/01/smoothing-out-lines-in-d3js.html). Apply them to [NVD3](https://krispo.github.io/angular-nvd3) inserting `interval: value` inside chart object options.
 
 #### Style Guide
 - [John Papa style guide](https://github.com/johnpapa/angular-styleguide) (prefer)
