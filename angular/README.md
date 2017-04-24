@@ -53,6 +53,10 @@
 - [Building hacker news with angular 2 cli, rxjs and webpack](http://houssein.me/angular2-hacker-news)
 - [Angular 2 Animations](http://blog.thoughtram.io/angular/2016/09/16/angular-2-animation-important-concepts.html)
 
+
+#### Tool
+- [Compodoc to generate documentation from annotation](https://github.com/compodoc/compodoc)
+
 #### Video
 - [Thinking in Angular 2](https://www.youtube.com/watch?v=XlqoPpLMdwY): an overview of key Angular 2.0 concepts for Angular 1.0 and traditional javascript developers - with Rangle's Angular 2 Team
 
