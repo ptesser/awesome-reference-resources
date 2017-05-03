@@ -54,3 +54,4 @@ If a bug is find the only method is ask to the community for change the smart co
 - [Ethereum Parte 1](https://etherevolution.eu/2017/02/12/ethereum-guida-parte-1/)
 - [Ethereum Parte 2](https://etherevolution.eu/2017/02/13/guida-ethereum-parte-2/)
 - [Ethereum Mist Browser](https://github.com/ethereum/mist/releases)
+- [Dapp develop stack - state of art at the begin of 2017](https://medium.com/@FEhrsam/the-dapp-developer-stack-the-blockchain-industry-barometer-8d55ec1c7d4)
