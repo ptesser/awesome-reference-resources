@@ -33,6 +33,8 @@ Link [here](bitcoin-ethereum/README.md) for Bitcoin and Ethereum's references an
 ### CSS
 - [Maintainable CSS](http://maintainablecss.com/chapters/reuse/): an approach to architecting and writing CSS that helps you and your team write modular, scalable and maintainable code. It’s a set of principles, guides and conventions that help you write CSS for large or small scale websites;
 - [Airbnb CSS approach](https://github.com/airbnb/css)
+- [Animation for beginners](https://robots.thoughtbot.com/css-animation-for-beginners)
+- [Animation: Transition and Transform](https://robots.thoughtbot.com/transitions-and-transforms)
 
 #### Naming convention
 - [BEM CSS Tricks](https://css-tricks.com/bem-101/): article that explains BEM's methodology
