@@ -107,3 +107,7 @@ Link [here](php/README.md) for PHP's references and resources.
 ### Security
 
 - [Explain JWT video](https://www.youtube.com/watch?v=WzfJgCOMIsU). he use AngularJs as a front-end framework, but it's the same thing for the other systems.
+
+### Utilities
+
+- [NgRok](https://ngrok.com/docs): I want to expose a local server behind a NAT or firewall to the internet.
