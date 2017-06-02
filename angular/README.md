@@ -2,7 +2,7 @@
 
 ## Links
 
-### AngularJS 1.X
+### AngularJS
 - [Angular Controller Inherintance](https://github.com/exratione/angularjs-controller-inheritance)
 - [Learn directive part 1](http://www.sitepoint.com/practical-guide-angularjs-directives/)
 - [Learn directive part 2](http://www.sitepoint.com/practical-guide-angularjs-directives-part-two/)
@@ -33,7 +33,7 @@
 #### Testing
 - [Unit test for promises](http://www.bradoncode.com/blog/2015/07/13/unit-test-promises-angualrjs-q/)
 
-### Angular 2.X
+### Angular
 - [Main goals of Angular 2](http://blog.jhades.org/introduction-to-angular2-the-main-goals/) (alpha version - 18 May 2015)
 - [Change Detection by Victor Savkin](http://victorsavkin.com/post/110170125256/change-detection-in-angular-2): article that talks in depth about the Angular 2 change detection system
 - [Immutability and Encapsulation by Victor Savkin](http://victorsavkin.com/post/133936129316/angular-immutability-and-encapsulation)
@@ -52,7 +52,7 @@
 - [Angular 2 and Functional Programming](http://blog.wolksoftware.com/the-rise-of-functional-programming-and-the-death-of-angularjs)
 - [Building hacker news with angular 2 cli, rxjs and webpack](http://houssein.me/angular2-hacker-news)
 - [Angular 2 Animations](http://blog.thoughtram.io/angular/2016/09/16/angular-2-animation-important-concepts.html)
-
+- [Angular Router Events](https://toddmotto.com/dynamic-page-titles-angular-2-router-events)
 
 #### Tool
 - [Compodoc to generate documentation from annotation](https://github.com/compodoc/compodoc)
