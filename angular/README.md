@@ -48,11 +48,12 @@
 - [Routing in RC1 release](https://coryrylan.com/blog/introduction-to-angular-2-routing)
 - [General overview](http://codingjam.it/introduzione-ad-angular-2-parte-2/): article is in italian
 - [Reactive programming for Angular 2](http://blog.angular-university.io/functional-reactive-programming-for-angular-2-developers-rxjs-and-observables/): post that it is going to go over the concept of Functional Reactive Programming from the point of view of an Angular 2 developer
-- [Immutable.js and Redux with Angular 2](http://houssein.me/redux/immutablejs/angular2/2016/07/04/angular2-with-immutablejs-and-redux.html): article with a tutorial to make a contact list following Redux's pattern and use Immutable structures
+- [Immutable.js and Redux with Angular 2](https://houssein.me/angular2-hacker-news): article with a tutorial to make a contact list following Redux's pattern and use Immutable structures
 - [Angular 2 and Functional Programming](http://blog.wolksoftware.com/the-rise-of-functional-programming-and-the-death-of-angularjs)
 - [Building hacker news with angular 2 cli, rxjs and webpack](http://houssein.me/angular2-hacker-news)
 - [Angular 2 Animations](http://blog.thoughtram.io/angular/2016/09/16/angular-2-animation-important-concepts.html)
 - [Angular Router Events](https://toddmotto.com/dynamic-page-titles-angular-2-router-events)
+- [Angular 2 with @ngrx](http://onehungrymind.com/build-better-angular-2-application-redux-ngrx/): old but good article to understand the different components involved;
 
 #### Tool
 - [Compodoc to generate documentation from annotation](https://github.com/compodoc/compodoc)
