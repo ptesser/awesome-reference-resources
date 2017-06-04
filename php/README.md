@@ -24,6 +24,7 @@
 - [Web Application with Lumen](http://loige.co/developing-a-web-application-with-lumen-and-mysql/): simple article that explain how configure a simple DB MySQL in Lumen;
 - [Repository Pattern](https://heera.it/laravel-repository-pattern)
 - [TDD for Dingo API](https://m.dotdev.co/test-driven-api-development-using-laravel-dingo-and-jwt-with-documentation-ae4014260148)
+- [Migrations issue with L4](https://laravel-news.com/laravel-5-4-key-too-long-error)
 
 ### Security
 - [OAuth2 Server library](http://bshaffer.github.io/oauth2-server-php-docs/)
