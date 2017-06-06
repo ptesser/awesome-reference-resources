@@ -103,6 +103,8 @@ Link [here](php/README.md) for PHP's references and resources.
 - [Best practice to design API](http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
 - [Nouns are good, verbs are bad](http://apigee.com/about/blog/technology/restful-api-design-nouns-are-good-verbs-are-bad)
 - [Http status references](https://httpstatuses.com/)
+- [API Strategy](https://github.com/restfulapi/api-strategy)
+
 
 ### Security
 
