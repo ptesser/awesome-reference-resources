@@ -25,6 +25,7 @@
 - [Repository Pattern](https://heera.it/laravel-repository-pattern)
 - [TDD for Dingo API](https://m.dotdev.co/test-driven-api-development-using-laravel-dingo-and-jwt-with-documentation-ae4014260148)
 - [Migrations issue with L4](https://laravel-news.com/laravel-5-4-key-too-long-error)
+- [Testing Models](https://code.tutsplus.com/tutorials/testing-like-a-boss-in-laravel-models--net-30087): not too recent (2013)
 
 ### Security
 - [OAuth2 Server library](http://bshaffer.github.io/oauth2-server-php-docs/)
