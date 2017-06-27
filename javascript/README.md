@@ -12,6 +12,10 @@
 - [Clean Code](https://github.com/ryanmcdermott/clean-code-javascript)
 - [Js from scratch](https://github.com/verekia/js-stack-from-scratch): modern JavaScript stack tutorial
 
+### Algorithms
+
+- [Algorithmsn implementation](https://mgechev.github.io/javascript-algorithms/index.html)
+
 ### ES6
 
 - [ES6 Features](https://github.com/lukehoban/es6features)
