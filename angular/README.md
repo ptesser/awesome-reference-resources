@@ -54,6 +54,7 @@
 - [Angular 2 Animations](http://blog.thoughtram.io/angular/2016/09/16/angular-2-animation-important-concepts.html)
 - [Angular Router Events](https://toddmotto.com/dynamic-page-titles-angular-2-router-events)
 - [Angular 2 with @ngrx](http://onehungrymind.com/build-better-angular-2-application-redux-ngrx/): old but good article to understand the different components involved;
+- [Angular Performance Checklist](https://github.com/mgechev/angular-performance-checklist)
 
 #### Tool
 - [Compodoc to generate documentation from annotation](https://github.com/compodoc/compodoc)
