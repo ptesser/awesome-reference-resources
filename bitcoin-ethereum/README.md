@@ -44,6 +44,8 @@ If a bug is find the only method is ask to the community for change the smart co
 
 ## Links
 
+- http://www.goldmansachs.com/our-thinking/pages/blockchain/
+
 ### Ethereum
 
 - https://ethereum.org/
