@@ -11,6 +11,7 @@
 - [You don't know JS](https://github.com/getify/You-Dont-Know-JS)
 - [Clean Code](https://github.com/ryanmcdermott/clean-code-javascript)
 - [Js from scratch](https://github.com/verekia/js-stack-from-scratch): modern JavaScript stack tutorial
+- [Good tutorials](http://xahlee.info/js/js.html)
 
 ### Algorithms
 
