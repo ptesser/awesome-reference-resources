@@ -57,6 +57,10 @@
 - [Angular Performance Checklist](https://github.com/mgechev/angular-performance-checklist)
 - [Angular compiler](https://medium.com/@urish/a-deep-deep-deep-deep-deep-dive-into-the-angular-compiler-5379171ffb7a)
 
+#### Testing
+
+- [Testing Recepies](http://slides.com/gerardsans/odessajs-testing-recipes#/4/12)
+
 #### Tool
 - [Compodoc to generate documentation from annotation](https://github.com/compodoc/compodoc)
 - [NgRev for reverse engeneering of Angular applications](https://github.com/mgechev/ngrev)
