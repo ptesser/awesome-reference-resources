@@ -56,6 +56,7 @@
 - [Angular 2 with @ngrx](http://onehungrymind.com/build-better-angular-2-application-redux-ngrx/): old but good article to understand the different components involved;
 - [Angular Performance Checklist](https://github.com/mgechev/angular-performance-checklist)
 - [Angular compiler](https://medium.com/@urish/a-deep-deep-deep-deep-deep-dive-into-the-angular-compiler-5379171ffb7a)
+- [Managing state with Redux](https://medium.com/front-end-hacking/managing-state-in-angular-apps-with-ngrx-store-and-ngrx-effects-part-1-a878addba622): it shows how to manage the state using @ngrx/store and @ngrx/effects
 
 #### Testing
 
