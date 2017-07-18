@@ -13,6 +13,10 @@
 - [Js from scratch](https://github.com/verekia/js-stack-from-scratch): modern JavaScript stack tutorial
 - [Good tutorials](http://xahlee.info/js/js.html)
 
+### DOM
+
+- [DOM, Quick and Simple](http://prettydiff.com/guide/unrelated_dom.xhtml)
+
 ### Algorithms
 
 - [Algorithmsn implementation](https://mgechev.github.io/javascript-algorithms/index.html)
