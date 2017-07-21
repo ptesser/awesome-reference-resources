@@ -34,6 +34,10 @@
 ### Reactive Programming
 - [Obsvervables under the hood](https://netbasal.com/javascript-observables-under-the-hood-2423f760584#.pu76rnj3a)
 
+### Framework
+
+- [Changes and its detection in js (2015)](http://teropa.info/blog/2015/03/02/change-and-its-detection-in-javascript-frameworks.html)
+
 ### Bitcoin
 
 - [Bitcoin and Javascript 1](http://html5today.it/tutorial/bitcoin-e-javascript-introduzione-a-bitcoinjs-installazione/): introduction and first steps
