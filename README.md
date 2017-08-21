@@ -35,6 +35,7 @@ Link [here](bitcoin-ethereum/README.md) for Bitcoin and Ethereum's references an
 - [Airbnb CSS approach](https://github.com/airbnb/css)
 - [Animation for beginners](https://robots.thoughtbot.com/css-animation-for-beginners)
 - [Animation: Transition and Transform](https://robots.thoughtbot.com/transitions-and-transforms)
+- [Z-Index and Stacking Context](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Positioning/Understanding_z_index/The_stacking_context)
 
 #### Naming convention
 - [BEM CSS Tricks](https://css-tricks.com/bem-101/): article that explains BEM's methodology
