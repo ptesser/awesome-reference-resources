@@ -88,6 +88,7 @@ Link [here](php/README.md) for PHP's references and resources.
 ### Wordpress
 
 - [Secure WP](http://code.tutsplus.com/articles/10-steps-to-securing-your-wordpress-installation--wp-21579)
+- [REST API - autocomplete](https://gist.github.com/jaredatch/27c42dfdf02b20256cf7b160ab6e55db)
 
 ### Reactive Programming
 
