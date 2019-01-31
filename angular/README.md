@@ -22,11 +22,16 @@
 - [Official Page](https://material.angular.io/cdk/categories)
 - [Context Menu made easy - Netanel Basal - 2019.01.08](https://netbasal.com/context-menus-made-easy-with-angular-cdk-963797e679fc)
 
+#### Forms
+
+- [Make Your Angular Form’s Error Messages Magically Appear - Netanel Basal - 2019.01.22](https://netbasal.com/make-your-angular-forms-error-messages-magically-appear-1e32350b7fa5)
+
 #### Observable
 
 - [Taking andvantage of Observable](http://blog.thoughtram.io/angular/2016/01/06/taking-advantage-of-observables-in-angular2.html): article about why use Obsearvable instead of Promise. I don't like the way that he uses two obsearvable instead only one in WikipediaService. For me he can use **debounceTime** directly in search method.
 - [Reactive programming for Angular 2](http://blog.angular-university.io/functional-reactive-programming-for-angular-2-developers-rxjs-and-observables/): post that it is going to go over the concept of Functional Reactive Programming from the point of view of an Angular 2 developer
 - [Angular 2 and Functional Programming](http://blog.wolksoftware.com/the-rise-of-functional-programming-and-the-death-of-angularjs)
+- [Unsubscribe pipe operator - Netanel Basal](https://github.com/NetanelBasal/ngx-take-until-destroy)
 
 #### Manage State
 
@@ -43,9 +48,6 @@
 #### Tool
 - [Compodoc to generate documentation from annotation](https://github.com/compodoc/compodoc)
 - [NgRev for reverse engeneering of Angular applications](https://github.com/mgechev/ngrev)
-
-#### Video
-- [Thinking in Angular 2](https://www.youtube.com/watch?v=XlqoPpLMdwY): an overview of key Angular 2.0 concepts for Angular 1.0 and traditional javascript developers - with Rangle's Angular 2 Team
 
 
 ## AngularJS
