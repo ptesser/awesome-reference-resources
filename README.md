@@ -64,13 +64,13 @@ Link [here](bitcoin-ethereum/README.md) for Bitcoin and Ethereum's references an
 ## Javascript
 Link [here](javascript/README.md) for JS's references and resources.
 
+## Numbers
+
+- [The floating point Guide](https://floating-point-gui.de/)
+
 ## PHP
 Link [here](php/README.md) for PHP's references and resources.
 
-## Wordpress
-
-- [Secure WP](http://code.tutsplus.com/articles/10-steps-to-securing-your-wordpress-installation--wp-21579)
-- [REST API - autocomplete](https://gist.github.com/jaredatch/27c42dfdf02b20256cf7b160ab6e55db)
 
 ## Reactive Programming
 
@@ -97,3 +97,8 @@ Link [here](php/README.md) for PHP's references and resources.
 ## Utilities
 
 - [NgRok](https://ngrok.com/docs): I want to expose a local server behind a NAT or firewall to the internet.
+
+## Wordpress
+
+- [Secure WP](http://code.tutsplus.com/articles/10-steps-to-securing-your-wordpress-installation--wp-21579)
+- [REST API - autocomplete](https://gist.github.com/jaredatch/27c42dfdf02b20256cf7b160ab6e55db)
