@@ -94,6 +94,10 @@ Link [here](php/README.md) for PHP's references and resources.
 
 - [Explain JWT video](https://www.youtube.com/watch?v=WzfJgCOMIsU). he use AngularJs as a front-end framework, but it's the same thing for the other systems.
 
+## Types
+
+- [A Primer on Type Systems - Glenn G. Chappell - 29.01.2018](https://www.cs.uaf.edu/users/chappell/public_html/class/2018_spr/cs331/docs/types_primer.html)
+
 ## Utilities
 
 - [NgRok](https://ngrok.com/docs): I want to expose a local server behind a NAT or firewall to the internet.
