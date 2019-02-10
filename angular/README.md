@@ -22,6 +22,10 @@
 - [Official Page](https://material.angular.io/cdk/categories)
 - [Context Menu made easy - Netanel Basal - 2019.01.08](https://netbasal.com/context-menus-made-easy-with-angular-cdk-963797e679fc)
 
+#### Directives
+
+- [The Power of Structural Directives in Angular - Netanel Basal - 22.05.2017](https://netbasal.com/the-power-of-structural-directives-in-angular-bfe4d8c44fb1)
+
 #### Forms
 
 - [Make Your Angular Form’s Error Messages Magically Appear - Netanel Basal - 2019.01.22](https://netbasal.com/make-your-angular-forms-error-messages-magically-appear-1e32350b7fa5)
