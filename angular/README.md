@@ -26,6 +26,10 @@
 
 - [Make Your Angular Form’s Error Messages Magically Appear - Netanel Basal - 2019.01.22](https://netbasal.com/make-your-angular-forms-error-messages-magically-appear-1e32350b7fa5)
 
+#### Life Cycle Hooks
+
+- [Creatively Decouple ngOnChanges - Siyang Kern Zhao - 07.01.2019](https://blog.angularindepth.com/creatively-decouple-ngonchanges-fab95395cc6e)
+
 #### Observable
 
 - [Taking andvantage of Observable](http://blog.thoughtram.io/angular/2016/01/06/taking-advantage-of-observables-in-angular2.html): article about why use Obsearvable instead of Promise. I don't like the way that he uses two obsearvable instead only one in WikipediaService. For me he can use **debounceTime** directly in search method.
