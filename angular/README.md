@@ -17,10 +17,16 @@
 
 - [A gentle introduction into change detection in Angular - Max Koretskyi - 2018.12.08](https://blog.angularindepth.com/a-gentle-introduction-into-change-detection-in-angular-33f9ffff6f10)
 
+
 #### CDK
 
 - [Official Page](https://material.angular.io/cdk/categories)
 - [Context Menu made easy - Netanel Basal - 2019.01.08](https://netbasal.com/context-menus-made-easy-with-angular-cdk-963797e679fc)
+
+#### Dependency Injection
+
+- [Configurare le dipendenze utilizzando useFactory - Fabio Biondi - 07.07.2018](http://training.fabiobiondi.io/2018/07/07/angular-configurare-le-dipendenze-utilizzando-usefactory/)
+
 
 #### Directives
 
@@ -40,6 +46,7 @@
 - [Reactive programming for Angular 2](http://blog.angular-university.io/functional-reactive-programming-for-angular-2-developers-rxjs-and-observables/): post that it is going to go over the concept of Functional Reactive Programming from the point of view of an Angular 2 developer
 - [Angular 2 and Functional Programming](http://blog.wolksoftware.com/the-rise-of-functional-programming-and-the-death-of-angularjs)
 - [Unsubscribe pipe operator - Netanel Basal](https://github.com/NetanelBasal/ngx-take-until-destroy)
+
 
 #### Manage State
 
