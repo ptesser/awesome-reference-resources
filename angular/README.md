@@ -16,7 +16,8 @@
 #### Change Detection
 
 - [A gentle introduction into change detection in Angular - Max Koretskyi - 2018.12.08](https://blog.angularindepth.com/a-gentle-introduction-into-change-detection-in-angular-33f9ffff6f10)
-
+- [Angular Change Detection - How Does It Really Work? - Angular University Blog - 2018.12.10](https://blog.angular-university.io/how-does-angular-2-change-detection-really-work/)
+- [Change Detection in Angular: Everything You Need to Know - Maximus Koretskyi - 2018.05.01](https://www.sitepoint.com/change-detection-angular/)
 
 #### CDK
 
