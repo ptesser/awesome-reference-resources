@@ -25,12 +25,12 @@
 
 #### Dependency Injection
 
-- [Configurare le dipendenze utilizzando useFactory - Fabio Biondi - 07.07.2018](http://training.fabiobiondi.io/2018/07/07/angular-configurare-le-dipendenze-utilizzando-usefactory/)
+- [Configurare le dipendenze utilizzando useFactory - Fabio Biondi - 2018.07.07](http://training.fabiobiondi.io/2018/07/07/angular-configurare-le-dipendenze-utilizzando-usefactory/)
 
 
 #### Directives
 
-- [The Power of Structural Directives in Angular - Netanel Basal - 22.05.2017](https://netbasal.com/the-power-of-structural-directives-in-angular-bfe4d8c44fb1)
+- [The Power of Structural Directives in Angular - Netanel Basal - 2017.05.22](https://netbasal.com/the-power-of-structural-directives-in-angular-bfe4d8c44fb1)
 
 #### Forms
 
@@ -38,7 +38,7 @@
 
 #### Life Cycle Hooks
 
-- [Creatively Decouple ngOnChanges - Siyang Kern Zhao - 07.01.2019](https://blog.angularindepth.com/creatively-decouple-ngonchanges-fab95395cc6e)
+- [Creatively Decouple ngOnChanges - Siyang Kern Zhao - 2019.01.07](https://blog.angularindepth.com/creatively-decouple-ngonchanges-fab95395cc6e)
 
 #### Observable
 
