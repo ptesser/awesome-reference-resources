@@ -15,9 +15,10 @@
 
 #### Change Detection
 
-- [A gentle introduction into change detection in Angular - Max Koretskyi - 2018.12.08](https://blog.angularindepth.com/a-gentle-introduction-into-change-detection-in-angular-33f9ffff6f10)
 - [Angular Change Detection - How Does It Really Work? - Angular University Blog - 2018.12.10](https://blog.angular-university.io/how-does-angular-2-change-detection-really-work/)
+- [A gentle introduction into change detection in Angular - Max Koretskyi - 2018.12.08](https://blog.angularindepth.com/a-gentle-introduction-into-change-detection-in-angular-33f9ffff6f10)
 - [Change Detection in Angular: Everything You Need to Know - Maximus Koretskyi - 2018.05.01](https://www.sitepoint.com/change-detection-angular/)
+- [A Comprehensive Guide to Angular onPush Change Detection Strategy - Netanel Basal - 2018.05.01](https://netbasal.com/a-comprehensive-guide-to-angular-onpush-change-detection-strategy-5bac493074a4)
 
 #### CDK
 
@@ -26,6 +27,7 @@
 
 #### Dependency Injection
 
+- [Total Guide To Angular 6+ Dependency Injection — providedIn vs providers: - Tomas Trajan - 2018.11.06](https://medium.com/@tomastrajan/total-guide-to-angular-6-dependency-injection-providedin-vs-providers-85b7a347b59f) 
 - [Configurare le dipendenze utilizzando useFactory - Fabio Biondi - 2018.07.07](http://training.fabiobiondi.io/2018/07/07/angular-configurare-le-dipendenze-utilizzando-usefactory/)
 
 
