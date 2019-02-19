@@ -50,6 +50,11 @@ Link [here](bitcoin-ethereum/README.md) for Bitcoin and Ethereum's references an
 - [A cartoon guide to Flux](https://code-cartoons.com/a-cartoon-guide-to-flux-6157355ab207#.vcp7vp88n)
 - [Smart and Dumb Components](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0#.rfzpd427p)
 
+## Functional Programming
+
+- [What is a functor? - Thai Pangsakulyanont - 2015.12.15](https://medium.com/@dtinth/what-is-a-functor-dcf510b098b6)
+- [Functors, Applicatives, And Monads In Pictures - 2013.05.20](http://adit.io/posts/2013-04-17-functors,_applicatives,_and_monads_in_pictures.html)
+
 ## Git
 - [Git flow, branching model](http://nvie.com/posts/a-successful-git-branching-model/)
 - [Basic introduction to git hooks](http://www.sitepoint.com/introduction-git-hooks/)
