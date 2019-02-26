@@ -50,6 +50,9 @@
 - [Angular 2 and Functional Programming](http://blog.wolksoftware.com/the-rise-of-functional-programming-and-the-death-of-angularjs)
 - [Unsubscribe pipe operator - Netanel Basal](https://github.com/NetanelBasal/ngx-take-until-destroy)
 
+#### Pipes
+
+- [Memoized pipe functions in templates - Artem Lanovyy - 2019.01.23](https://medium.com/@ineedsomemeat/angular-optimization-memoized-pipe-functions-in-templates-75f62e16df5a)
 
 #### Manage State
 
