@@ -1,4 +1,4 @@
-# Javascript References and Resources
+# JavaScript References and Resources
 
 ## Links
 
@@ -24,6 +24,11 @@
 ### ES6
 
 - [ES6 Features](https://github.com/lukehoban/es6features)
+
+### ES8
+
+- [Tips for using async functions - Dr. Axel Rauschmayer - 2016.10.22](http://2ality.com/2016/10/async-function-tips.html)
+
 
 ### Functional
 
