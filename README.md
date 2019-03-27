@@ -40,12 +40,6 @@ Link [here](bitcoin-ethereum/README.md) for Bitcoin and Ethereum's references an
 - [BEMIT naming](http://www.jamesturneronline.net/beautifulweb/bemit-naming-convention.html): mix of BEM and ITCSS naming conventions
 - [BEM, OOCSS, SMACSS styleguide](http://timhartmann.net/frontend-development/scss-styleguide-with-bem-oocss-smacss/)
 
-
-## JS
-- [Style Components](https://github.com/styled-components/styled-components): use the best bits of ES6 and CSS to style your apps without stress;
-- [Css in JS](https://github.com/MicheleBertoli/css-in-js): repository with all different libraries about this theme;
-
-
 ## Design Patterns
 - [Obsever](https://dellabate.wordpress.com/2012/03/03/gof-patterns-observer/): a simple article that explain Observer pattern in italian language
 - [Flux vs MVC](https://medium.com/hacking-and-gonzo/flux-vs-mvc-design-patterns-57b28c0f71b7#.szg4ax6lp): article that talks about a new Flux pattern to structure client side applications and how it relates to the MVC pattern
@@ -66,10 +60,10 @@ Link [here](bitcoin-ethereum/README.md) for Bitcoin and Ethereum's references an
 - [Use git in local without insert password everytime with https clone](http://stackoverflow.com/questions/5343068/is-there-a-way-to-skip-password-typing-when-using-https-github)
 
 
-## JSON (Javascript Notation Object)
+## JSON (JavaScript Notation Object)
 - [Subtle JSON Vulnerability](http://haacked.com/archive/2008/11/20/anatomy-of-a-subtle-json-vulnerability.aspx/)
 
-## Javascript
+## JavaScript
 Link [here](javascript/README.md) for JS's references and resources.
 
 ## Numbers
