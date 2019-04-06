@@ -1,4 +1,4 @@
-# AngularJS References and Resources
+# Angular / AngularJS References and Resources
 
 ## Angular
 

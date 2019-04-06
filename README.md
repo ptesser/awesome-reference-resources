@@ -10,7 +10,7 @@
 - [ELB with a custom DNS name via AWS Route 53](http://docs.aws.amazon.com/ElasticLoadBalancing/latest/DeveloperGuide/using-domain-names-with-elb.html)
 
 ## Angular
-Link [here](angular/README.md) for AngularJS's references and resoruces.
+Link [here](angular/README.md) for Angular and AngularJS  references and resoruces.
 
 ## Apache
 - [Move to HTTP2](https://icing.github.io/mod_h2/howto.html)
@@ -73,6 +73,9 @@ Link [here](javascript/README.md) for JS's references and resources.
 ## PHP
 Link [here](php/README.md) for PHP's references and resources.
 
+## React
+
+Link [here](react/README.md) for React's references and resoruces.
 
 ## Reactive Programming
 
