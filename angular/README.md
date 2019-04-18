@@ -27,6 +27,7 @@
 
 #### Dependency Injection
 
+- [Writing Configurable Modules - Michele Stieven - 2018.02.21](https://medium.com/@michelestieven/angular-writing-configurable-modules-69e6ea23ea42)
 - [Total Guide To Angular 6+ Dependency Injection — providedIn vs providers: - Tomas Trajan - 2018.11.06](https://medium.com/@tomastrajan/total-guide-to-angular-6-dependency-injection-providedin-vs-providers-85b7a347b59f) 
 - [Configurare le dipendenze utilizzando useFactory - Fabio Biondi - 2018.07.07](http://training.fabiobiondi.io/2018/07/07/angular-configurare-le-dipendenze-utilizzando-usefactory/)
 
@@ -65,6 +66,10 @@
 - [Managing state with Redux](https://medium.com/front-end-hacking/managing-state-in-angular-apps-with-ngrx-store-and-ngrx-effects-part-1-a878addba622): it shows how to manage the state using @ngrx/store and @ngrx/effects
 - [Different type of state's application](https://blog.nrwl.io/using-ngrx-4-to-manage-state-in-angular-applications-64e7a1f84b7b)
 - [Angular 2 with @ngrx](http://onehungrymind.com/build-better-angular-2-application-redux-ngrx/): old but good article to understand the different components involved;
+
+#### Organizing Application
+
+- [Organizing Angular Applications - Michele Stieven - 2017.11.11](https://medium.com/@michelestieven/organizing-angular-applications-f0510761d65a)
 
 #### Testing
 
