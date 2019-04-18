@@ -50,8 +50,7 @@
 - [Reactive programming for Angular 2](http://blog.angular-university.io/functional-reactive-programming-for-angular-2-developers-rxjs-and-observables/): post that it is going to go over the concept of Functional Reactive Programming from the point of view of an Angular 2 developer
 - [Angular 2 and Functional Programming](http://blog.wolksoftware.com/the-rise-of-functional-programming-and-the-death-of-angularjs)
 - [Unsubscribe pipe operator - Netanel Basal](https://github.com/NetanelBasal/ngx-take-until-destroy)
-- [RxJS: Avoiding takeUntil Leaks
- - Nicholas Jamieson - 2018.05.27](https://blog.angularindepth.com/rxjs-avoiding-takeuntil-leaks-fb5182d047ef)
+- [RxJS: Avoiding takeUntil Leaks - Nicholas Jamieson - 2018.05.27](https://blog.angularindepth.com/rxjs-avoiding-takeuntil-leaks-fb5182d047ef)
 
 #### Pipes
 
