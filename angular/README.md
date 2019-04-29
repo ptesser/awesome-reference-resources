@@ -64,6 +64,7 @@
 - [5 Tips to improve User Experience of your Angular app with NgRx - Alex Okrushko - 2018.12.17](https://blog.angularindepth.com/5-tips-to-improve-user-experience-of-your-angular-app-with-ngrx-6e849ca99529)
 - [Manage Action Flow in @ngrx with @ngrx/effects - Anonymous - 2017.08.20](https://blog.nextzy.me/manage-action-flow-in-ngrx-with-ngrx-effects-1fda3fa06c2f)
 - [Manage Shared Module - Best Practice](https://www.gurustop.net/blog/2017/02/14/shared-modules-in-angular-apps-providers-best-practices-and-what-does-forroot-do/)
+- [Sign In with Google Social](https://codinglatte.com/posts/angular/sign-in-with-google-angular/)
 - [Comprehensive Introduction to @ngrx/store](https://gist.github.com/btroncone/a6e4347326749f938510)
 - [Managing state with Redux](https://medium.com/front-end-hacking/managing-state-in-angular-apps-with-ngrx-store-and-ngrx-effects-part-1-a878addba622): it shows how to manage the state using @ngrx/store and @ngrx/effects
 - [Different type of state's application](https://blog.nrwl.io/using-ngrx-4-to-manage-state-in-angular-applications-64e7a1f84b7b)
