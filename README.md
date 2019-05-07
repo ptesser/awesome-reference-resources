@@ -107,10 +107,11 @@ Link [here](react/README.md) for React's references and resoruces.
 
 ## Types
 
-- [A Primer on Type Systems - Glenn G. Chappell - 29.01.2018](https://www.cs.uaf.edu/users/chappell/public_html/class/2018_spr/cs331/docs/types_primer.html)
+- [A Primer on Type Systems - Glenn G. Chappell - 2018.01.29](https://www.cs.uaf.edu/users/chappell/public_html/class/2018_spr/cs331/docs/types_primer.html)
 
 ## TypeScript
 
+- [Filtering Types with Correct Type Inference in RxJS - John Crowson - 2019.03.28](https://medium.com/ngconf/filtering-types-with-correct-type-inference-in-rxjs-f4edf064880d)
 - [A Gentle Introduction to TypeScript Decorators - Idan Dardikman - 2018.11.06](https://medium.com/iqoqo-engineering/understand-typescript-decorators-in-5-minutes-26ffc6189082) 
 
 ## Utilities
