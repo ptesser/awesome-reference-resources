@@ -40,6 +40,7 @@ Link [here](bitcoin-ethereum/README.md) for Bitcoin and Ethereum's references an
 - [Animation: Transition and Transform](https://robots.thoughtbot.com/transitions-and-transforms)
 - [Z-Index and Stacking Context](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Positioning/Understanding_z_index/The_stacking_context)
 - [Comprehensive Guide: When to Use Em vs. Rem - Kezz Bracey - 2015.07.21](https://webdesign.tutsplus.com/tutorials/comprehensive-guide-when-to-use-em-vs-rem--cms-23984)
+- [CSS Flicker on hover - linxea - 2018.10.02](https://dev.to/linxea/css-flicker-on-hover-5gj5)
 
 ### Naming convention
 - [BEM CSS Tricks](https://css-tricks.com/bem-101/): article that explains BEM's methodology
