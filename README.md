@@ -34,6 +34,8 @@ Link [here](bitcoin-ethereum/README.md) for Bitcoin and Ethereum's references an
 - A lot of free books if published before 2014, otherwise you must subscribe a premium account: https://www.geekbooks.me/category
 
 ## CSS
+- [Do you even Flexbox - Zeeshaan Maudarbocus - 2019.04.29](https://medium.freecodecamp.org/do-you-even-flex-box-c16449cfca96?fbclid=IwAR1eVwUYPJwVfJbYlzp9pi82fonWcC6pHepjBJTQaqMmgaLR4rFMDx0H98I)
+- [A guide to Flexbox - CSS Tricks - 2019.05.13](https://css-tricks.com/snippets/css/a-guide-to-flexbox/#flexbox-background)
 - [Maintainable CSS](http://maintainablecss.com/chapters/reuse/): an approach to architecting and writing CSS that helps you and your team write modular, scalable and maintainable code. It’s a set of principles, guides and conventions that help you write CSS for large or small scale websites;
 - [Airbnb CSS approach](https://github.com/airbnb/css)
 - [Animation for beginners](https://robots.thoughtbot.com/css-animation-for-beginners)
