@@ -73,6 +73,7 @@
 #### Organizing Application
 
 - [Organizing Angular Applications - Michele Stieven - 2017.11.11](https://medium.com/@michelestieven/organizing-angular-applications-f0510761d65a)
+- [Becoming an Angular Environmentalist - Todd Palmer - 2018.07.19](https://blog.angularindepth.com/becoming-an-angular-environmentalist-45a48f7c20d8)
 
 #### Testing
 
