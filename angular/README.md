@@ -82,7 +82,7 @@
 #### Tool
 - [Compodoc to generate documentation from annotation](https://github.com/compodoc/compodoc)
 - [NgRev for reverse engeneering of Angular applications](https://github.com/mgechev/ngrev)
-
+- [Publishing Angular libraries like a pro - Robert Hjalmers - 2018.10.18](https://medium.com/@hjalmers/publish-angular-libraries-like-a-pro-d6329e1b8ec): this article have some useful tools to enforce commit convention
 
 ## AngularJS
 - [Angular Controller Inherintance](https://github.com/exratione/angularjs-controller-inheritance)
