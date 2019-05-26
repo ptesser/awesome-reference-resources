@@ -7,6 +7,7 @@
 - [Best practice change detector - Lucidchart](https://www.lucidchart.com/techblog/2016/05/04/angular-2-best-practices-change-detector-performance/?platform=hootsuite)
 - [Angular Performance Checklist](https://github.com/mgechev/angular-performance-checklist)
 - [Angular compiler](https://medium.com/@urish/a-deep-deep-deep-deep-deep-dive-into-the-angular-compiler-5379171ffb7a)
+- [Static Query Migration - Angular 8](https://next.angular.io/guide/static-query-migration#what-does-this-flag-mean): refer to migration from v8 to v9
 
 #### Immutability
 
