@@ -4,10 +4,10 @@
 
 ### Generals
 
+- [Mastering Immediately Invoked Functions - Chandra Gundamaraju - 2017.08.04](https://medium.com/@vvkchandra/essential-javascript-mastering-immediately-invoked-function-expressions-67791338ddc6)
 - [JS video hosted by FreeCodeCamp](https://medium.freecodecamp.com/my-giant-javascript-basics-course-is-now-live-on-youtube-and-its-100-free-9020a21bbc27)
 - [Explain scope and closure](http://codingjam.it/di-non-sapere-javascript-scope-e-closures/): article is in italian
 - [Explain event loop](https://developer.mozilla.org/it/docs/Web/JavaScript/EventLoop)
-- [The good parts - Video](https://www.youtube.com/watch?v=hQVTIJBZook)
 - [You don't know JS](https://github.com/getify/You-Dont-Know-JS)
 - [Clean Code](https://github.com/ryanmcdermott/clean-code-javascript)
 - [Js from scratch](https://github.com/verekia/js-stack-from-scratch): modern JavaScript stack tutorial
