@@ -48,6 +48,6 @@
 - [Bitcoin and Javascript 1](http://html5today.it/tutorial/bitcoin-e-javascript-introduzione-a-bitcoinjs-installazione/): introduction and first steps
 - [Bitcoin and Javascript 2](http://html5today.it/tutorial/bitcoin-e-javascript-creiamo-la-nostra-prima-transazione-con-bitcoinjs/): first transaction
 
-### CLI
+### Tools
 
-- [Webpack dashboard CLI](https://github.com/FormidableLabs/webpack-dashboard)
+- [Webpack config to expose bundle in a variable in the global context -  dreyescat - 4 years ago](https://gist.github.com/dreyescat/c3fd66ea0f7e97ba5c21)
