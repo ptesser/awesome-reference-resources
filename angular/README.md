@@ -8,6 +8,7 @@
 - [Angular Performance Checklist](https://github.com/mgechev/angular-performance-checklist)
 - [Angular compiler](https://medium.com/@urish/a-deep-deep-deep-deep-deep-dive-into-the-angular-compiler-5379171ffb7a)
 - [Static Query Migration - Angular 8](https://next.angular.io/guide/static-query-migration#what-does-this-flag-mean): refer to migration from v8 to v9
+- [Type Checking templates in Angular (ViewEngine vs Ivy) - Alexey Zuev - 09.07.2019](https://blog.angularindepth.com/type-checking-templates-in-angular-viewengine-and-ivy-77f8536359f5)
 
 #### Immutability
 
@@ -42,6 +43,7 @@
 
 #### Forms
 
+- [Reducing forms boilerplate - Eliran Eliassy - 06.07.2019](https://blog.angularindepth.com/reducing-the-forms-boilerplate-make-your-angular-forms-reusable-ee06d7c07f47)
 - [Make Your Angular Form’s Error Messages Magically Appear - Netanel Basal - 2019.01.22](https://netbasal.com/make-your-angular-forms-error-messages-magically-appear-1e32350b7fa5)
 
 #### Life Cycle Hooks
