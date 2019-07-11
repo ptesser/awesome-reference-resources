@@ -21,7 +21,7 @@
 - [A gentle introduction into change detection in Angular - Max Koretskyi - 2018.12.08](https://blog.angularindepth.com/a-gentle-introduction-into-change-detection-in-angular-33f9ffff6f10)
 - [Change Detection in Angular: Everything You Need to Know - Maximus Koretskyi - 2018.05.01](https://www.sitepoint.com/change-detection-angular/)
 - [A Comprehensive Guide to Angular onPush Change Detection Strategy - Netanel Basal - 2018.05.01](https://netbasal.com/a-comprehensive-guide-to-angular-onpush-change-detection-strategy-5bac493074a4)
-- [Boosting Performance of Angular Applications with Manual Change Detection - Chidume Nnamdi - 2018.07.07(https://blog.angularindepth.com/boosting-performance-of-angular-applications-with-manual-change-detection-42cb396110fb)
+- [Boosting Performance of Angular Applications with Manual Change Detection - Chidume Nnamdi - 2018.07.07](https://blog.angularindepth.com/boosting-performance-of-angular-applications-with-manual-change-detection-42cb396110fb)
 
 #### CDK
 
