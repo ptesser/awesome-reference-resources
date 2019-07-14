@@ -43,8 +43,10 @@
 
 ### Forms
 
-- [Reducing forms boilerplate - Eliran Eliassy - 06.07.2019](https://blog.angularindepth.com/reducing-the-forms-boilerplate-make-your-angular-forms-reusable-ee06d7c07f47)
+- [Reducing forms boilerplate - Eliran Eliassy - 2019.07.06](https://blog.angularindepth.com/reducing-the-forms-boilerplate-make-your-angular-forms-reusable-ee06d7c07f47)
 - [Make Your Angular Form’s Error Messages Magically Appear - Netanel Basal - 2019.01.22](https://netbasal.com/make-your-angular-forms-error-messages-magically-appear-1e32350b7fa5)
+- [Template Driven Form Validators - Juri Strumpflohner - 2016.11.01](https://juristr.com/blog/2016/11/ng2-template-driven-form-validators/)
+- [How to implement a custom validator directive confirm password - Jecelyn Yeen - 2017.08.11](https://scotch.io/tutorials/how-to-implement-a-custom-validator-directive-confirm-password-in-angular-2)
 
 ### Life Cycle Hooks
 
@@ -82,6 +84,10 @@
 ### Testing
 
 - [Testing Recepies](http://slides.com/gerardsans/odessajs-testing-recipes#/4/12)
+
+### Decorators
+
+- [Getting to know the @Attribute decorator - Netanel Basal  - 2018.01.29](https://netbasal.com/getting-to-know-the-attribute-decorator-in-angular-4f7c9fb61243)
 
 ### Tool
 - [Compodoc to generate documentation from annotation](https://github.com/compodoc/compodoc)
