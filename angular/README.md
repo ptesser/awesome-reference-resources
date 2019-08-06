@@ -34,7 +34,6 @@
 - [Total Guide To Angular 6+ Dependency Injection — providedIn vs providers: - Tomas Trajan - 2018.11.06](https://medium.com/@tomastrajan/total-guide-to-angular-6-dependency-injection-providedin-vs-providers-85b7a347b59f) 
 - [Configurare le dipendenze utilizzando useFactory - Fabio Biondi - 2018.07.07](http://training.fabiobiondi.io/2018/07/07/angular-configurare-le-dipendenze-utilizzando-usefactory/)
 
-
 ### Directives
 
 - [Everything you need to know about <ng-template>, <ng-content>, <ng-container> and *ngTemplateOutlet in Angular - Prateek Mishra - 2018.10.28](https://medium.freecodecamp.org/everything-you-need-to-know-about-ng-template-ng-content-ng-container-and-ngtemplateoutlet-4b7b51223691)
@@ -80,6 +79,7 @@
 
 - [Organizing Angular Applications - Michele Stieven - 2017.11.11](https://medium.com/@michelestieven/organizing-angular-applications-f0510761d65a)
 - [Becoming an Angular Environmentalist - Todd Palmer - 2018.07.19](https://blog.angularindepth.com/becoming-an-angular-environmentalist-45a48f7c20d8)
+- [Defining Providers in Shared Modules in Angular - 2017.09.14](https://alligator.io/angular/providers-shared-modules/)
 
 ### Testing
 
