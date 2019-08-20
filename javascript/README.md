@@ -28,7 +28,7 @@
 ### ES8
 
 - [Tips for using async functions - Dr. Axel Rauschmayer - 2016.10.22](http://2ality.com/2016/10/async-function-tips.html)
-
+- [Generators reduce memory used - Evgeny Melnikov - 2019.08.19](https://levelup.gitconnected.com/how-i-met-your-javascript-generators-reduce-memory-used-on-your-browser-and-server-8ed2c5077d5c)
 
 ### Functional
 
