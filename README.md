@@ -102,6 +102,7 @@ Link [here](react/README.md) for React's references and resoruces.
 - [Nouns are good, verbs are bad](http://apigee.com/about/blog/technology/restful-api-design-nouns-are-good-verbs-are-bad)
 - [Http status references](https://httpstatuses.com/)
 - [API Strategy](https://github.com/restfulapi/api-strategy)
+- [Richardson Maturity Model - Steps toward the glory of REST - Martin Fowler - 2010.03.18](https://martinfowler.com/articles/richardsonMaturityModel.html)
 
 
 ## Security
