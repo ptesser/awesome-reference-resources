@@ -13,6 +13,11 @@
 - [Js from scratch](https://github.com/verekia/js-stack-from-scratch): modern JavaScript stack tutorial
 - [Good tutorials](http://xahlee.info/js/js.html)
 
+### Dates
+
+- https://www.w3.org/TR/NOTE-datetime
+- [Handling time zone in Javascript - Toast UI - 2019.01.18](https://medium.com/@toastui/handling-time-zone-in-javascript-547e67aa842d)
+
 ### DOM
 
 - [DOM, Quick and Simple](http://prettydiff.com/guide/unrelated_dom.xhtml)
