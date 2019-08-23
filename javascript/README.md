@@ -41,8 +41,10 @@
 - [Introuce composable functional](https://egghead.io/courses/professor-frisby-introduces-composable-functional-javascript)
 - [Immutability using Redux](https://www.toptal.com/javascript/immutability-in-javascript-using-redux)
 
-### Reactive Programming
+### Reactive Programming / Observable
+
 - [Obsvervables under the hood](https://netbasal.com/javascript-observables-under-the-hood-2423f760584#.pu76rnj3a)
+- [Hot vs Cold Observables - Ben Lesh - 2016.04.29](https://medium.com/@benlesh/hot-vs-cold-observables-f8094ed53339)
 
 ### Framework
 
