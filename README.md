@@ -49,6 +49,10 @@ Link [here](bitcoin-ethereum/README.md) for Bitcoin and Ethereum's references an
 - [BEMIT naming](http://www.jamesturneronline.net/beautifulweb/bemit-naming-convention.html): mix of BEM and ITCSS naming conventions
 - [BEM, OOCSS, SMACSS styleguide](http://timhartmann.net/frontend-development/scss-styleguide-with-bem-oocss-smacss/)
 
+## Date and Time
+- https://www.w3.org/International/articles/definitions-time/
+- [The complexity of time data programming - Heimir Sverrisson - 2019.08.05](https://www.mojotech.com/blog/the-complexity-of-time-data-programming/)
+
 ## Design Patterns
 - [Obsever](https://dellabate.wordpress.com/2012/03/03/gof-patterns-observer/): a simple article that explain Observer pattern in italian language
 - [Flux vs MVC](https://medium.com/hacking-and-gonzo/flux-vs-mvc-design-patterns-57b28c0f71b7#.szg4ax6lp): article that talks about a new Flux pattern to structure client side applications and how it relates to the MVC pattern
