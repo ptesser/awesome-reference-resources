@@ -76,6 +76,7 @@ Link [here](bitcoin-ethereum/README.md) for Bitcoin and Ethereum's references an
 
 - [Ionic 4 Imafe Upload Storage - Simon - 2018.10.02](https://devdactic.com/ionic-4-image-upload-storage/)
 - [Solve native path of Android content - Carlos Delgado - 2016.11.09](https://ourcodeworld.com/articles/read/22/solve-native-path-of-android-content-if-resolvelocalfilesystemurl-doesn-t-work)
+- [Storing photos with the camera and file plugin - Matt Netkow - 2019.08.30](https://ionicframework.com/blog/storing-photos-with-the-cordova-camera-and-file-plugins/)
 
 ## JSON (JavaScript Notation Object)
 - [Subtle JSON Vulnerability](http://haacked.com/archive/2008/11/20/anatomy-of-a-subtle-json-vulnerability.aspx/)
