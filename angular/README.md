@@ -52,8 +52,10 @@
 
 - [Creatively Decouple ngOnChanges - Siyang Kern Zhao - 2019.01.07](https://blog.angularindepth.com/creatively-decouple-ngonchanges-fab95395cc6e)
 
-### Observable
+### RxJS
 
+- [Understanding rxjs BehaviorSubject, ReplaySubject and AsyncSubject - Luuk Gruijs - 2018.05.04](https://medium.com/@luukgruijs/understanding-rxjs-behaviorsubject-replaysubject-and-asyncsubject-8cc061f1cfc0)
+- [The magic of RXJS sharing operators and their differences - J Stepanyan - 2019.02.05](https://itnext.io/the-magic-of-rxjs-sharing-operators-and-their-differences-3a03d699d255)
 - [Magic of RxJS sharing operators and their differences - J Stepanyan - 2019.02.05](https://itnext.io/the-magic-of-rxjs-sharing-operators-and-their-differences-3a03d699d255)
 - [RxViz - Tool to show streams as a marble diagram animated](https://rxviz.com/)
 - [Taking andvantage of Observable](http://blog.thoughtram.io/angular/2016/01/06/taking-advantage-of-observables-in-angular2.html): article about why use Obsearvable instead of Promise. I don't like the way that he uses two obsearvable instead only one in WikipediaService. For me he can use **debounceTime** directly in search method.
@@ -92,6 +94,7 @@
 - [Getting to know the @Attribute decorator - Netanel Basal  - 2018.01.29](https://netbasal.com/getting-to-know-the-attribute-decorator-in-angular-4f7c9fb61243)
 
 ### Tool
+
 - [Compodoc to generate documentation from annotation](https://github.com/compodoc/compodoc)
 - [NgRev for reverse engeneering of Angular applications](https://github.com/mgechev/ngrev)
 - [Publishing Angular libraries like a pro - Robert Hjalmers - 2018.10.18](https://medium.com/@hjalmers/publish-angular-libraries-like-a-pro-d6329e1b8ec): this article have some useful tools to enforce commit convention
@@ -102,6 +105,7 @@
 - [Clarity VM Design System](https://vmware.github.io/clarity/)
 
 ## AngularJS
+
 - [Angular Controller Inherintance](https://github.com/exratione/angularjs-controller-inheritance)
 - [Learn directive part 1](http://www.sitepoint.com/practical-guide-angularjs-directives/)
 - [Learn directive part 2](http://www.sitepoint.com/practical-guide-angularjs-directives-part-two/)
@@ -117,6 +121,7 @@
 - [D3 Charts, Linear options](http://www.d3noob.org/2013/01/smoothing-out-lines-in-d3js.html). Apply them to [NVD3](https://krispo.github.io/angular-nvd3) inserting `interval: value` inside chart object options.
 
 ### Style Guide
+
 - [John Papa style guide](https://github.com/johnpapa/angular-styleguide) (prefer)
 - [Todd Motto style guide](https://github.com/toddmotto/angular-styleguide): explain how to structure an application in the Angular 2 (based components) way
 - [Official Git Commit Message Conventions](https://docs.google.com/document/d/1QrDFcIiPjSLDn3EL15IJygNPiHORgU1_OOAqWjiDU5Y/edit#)
