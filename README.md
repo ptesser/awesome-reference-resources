@@ -15,9 +15,14 @@ Link [here](angular/README.md) for Angular and AngularJS  references and resoruc
 ## Apache
 - [Move to HTTP2](https://icing.github.io/mod_h2/howto.html)
 
+## Apple Developer
+
+- [iOS Code Signing - Shashikant Jagtap - 2018.02.11](https://shashikantjagtap.net/ios-code-signing-1-getting-started/)
+- [How to code sign publish iOS apps - - ](https://blog.codemagic.io/how-to-code-sign-publish-ios-apps/)
+
 ## Authentication and Authorization
 
-- [OAuth 2 in Single Page Apps](https://www.oauth.com/oauth2-servers/single-page-apps/)
+- [OAuth 2 in Single Page Apps - 2019.04.22](https://www.oauth.com/oauth2-servers/single-page-apps/)
 - [OAuth 2 for mobile and SPA applications](https://www.ory.sh/oauth2-for-mobile-app-spa-browser)
 - [The difference between active directory and LDAP - Rob Sobers - 2019.03.25](https://www.varonis.com/blog/the-difference-between-active-directory-and-ldap/)
 
