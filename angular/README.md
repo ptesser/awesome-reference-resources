@@ -91,13 +91,19 @@
 
 ### Decorators
 
-- [Getting to know the @Attribute decorator - Netanel Basal  - 2018.01.29](https://netbasal.com/getting-to-know-the-attribute-decorator-in-angular-4f7c9fb61243)
+- [Getting to know the @Attribute decorator - Netanel Basal - 2018.01.29](https://netbasal.com/getting-to-know-the-attribute-decorator-in-angular-4f7c9fb61243)
 
 ### Tool
 
 - [Compodoc to generate documentation from annotation](https://github.com/compodoc/compodoc)
 - [NgRev for reverse engeneering of Angular applications](https://github.com/mgechev/ngrev)
 - [Publishing Angular libraries like a pro - Robert Hjalmers - 2018.10.18](https://medium.com/@hjalmers/publish-angular-libraries-like-a-pro-d6329e1b8ec): this article have some useful tools to enforce commit convention
+
+### UI
+
+- [Creating Behavioral components - Netanel Basal - 2019.09.13](https://netbasal.com/creating-behavioral-components-in-angular-8db6080f0cc4)
+- [Build an infinite scroll component - Netanel Basal - 2019.06.18](https://netbasal.com/build-an-infinite-scroll-component-in-angular-a9c16907a94d)
+
 
 ### UI Kit
 
