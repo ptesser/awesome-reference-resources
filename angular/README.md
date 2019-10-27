@@ -87,7 +87,7 @@
 
 ### Testing
 
-- [Unit testing with examples - - ](https://dev.to/mustapha/angular-unit-testing-101-with-examples-6mc)
+- [Unit testing with examples - Mustapha - 2019.10.12](https://dev.to/mustapha/angular-unit-testing-101-with-examples-6mc)
 - [Testing Recepies](http://slides.com/gerardsans/odessajs-testing-recipes#/4/12)
 
 ### Decorators
