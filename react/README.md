@@ -2,6 +2,10 @@
 
 ## React.js
 
+### Components
+
+- [Function Component with hooks - Robin Wieruch - 2019.03.18](https://www.robinwieruch.de/react-function-component)
+
 ### Patterns
 
 - [React Patterns](https://reactpatterns.com/)
