@@ -8,7 +8,7 @@
 - [Angular Performance Checklist](https://github.com/mgechev/angular-performance-checklist)
 - [Angular compiler](https://medium.com/@urish/a-deep-deep-deep-deep-deep-dive-into-the-angular-compiler-5379171ffb7a)
 - [Static Query Migration - Angular 8](https://next.angular.io/guide/static-query-migration#what-does-this-flag-mean): refer to migration from v8 to v9
-- [Type Checking templates in Angular (ViewEngine vs Ivy) - Alexey Zuev - 09.07.2019](https://blog.angularindepth.com/type-checking-templates-in-angular-viewengine-and-ivy-77f8536359f5)
+- [Type Checking templates in Angular (ViewEngine vs Ivy) - Alexey Zuev - 2019.07.09](https://blog.angularindepth.com/type-checking-templates-in-angular-viewengine-and-ivy-77f8536359f5)
 
 ### Immutability
 
@@ -84,6 +84,7 @@
 - [Organizing Angular Applications - Michele Stieven - 2017.11.11](https://medium.com/@michelestieven/organizing-angular-applications-f0510761d65a)
 - [Becoming an Angular Environmentalist - Todd Palmer - 2018.07.19](https://blog.angularindepth.com/becoming-an-angular-environmentalist-45a48f7c20d8)
 - [Defining Providers in Shared Modules in Angular - 2017.09.14](https://alligator.io/angular/providers-shared-modules/)
+- [Writing configurable modules - Michele Stieven - 2018.02.21](https://medium.com/@michelestieven/angular-writing-configurable-modules-69e6ea23ea42)
 
 ### Testing
 
