@@ -17,6 +17,7 @@
 
 - https://www.w3.org/TR/NOTE-datetime
 - [Handling time zone in Javascript - Toast UI - 2019.01.18](https://medium.com/@toastui/handling-time-zone-in-javascript-547e67aa842d)
+- [Date and time in detail - JavaScript Jeep - 2019.06.02](https://levelup.gitconnected.com/javascript-date-and-time-in-detail-270e85a68124)
 
 ### DOM
 
@@ -54,6 +55,10 @@
 
 - [Bitcoin and Javascript 1](http://html5today.it/tutorial/bitcoin-e-javascript-introduzione-a-bitcoinjs-installazione/): introduction and first steps
 - [Bitcoin and Javascript 2](http://html5today.it/tutorial/bitcoin-e-javascript-creiamo-la-nostra-prima-transazione-con-bitcoinjs/): first transaction
+
+### Promise
+
+- [What does JS promise us for 2020 - Gábor Soós - 2019.11.03](https://dev.to/blacksonic/what-does-javascript-promise-us-for-2020-4l1i)
 
 ### Tools
 
