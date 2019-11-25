@@ -113,6 +113,8 @@ Link [here](react/README.md) for React's references and resoruces.
 
 
 ## REST
+
+- [Open API 3 Specification](https://github.com/OAI/OpenAPI-Specification/blob/OpenAPI.next/versions/3.0.0.md)
 - [Best practice to design API](http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
 - [Nouns are good, verbs are bad](http://apigee.com/about/blog/technology/restful-api-design-nouns-are-good-verbs-are-bad)
 - [Http status references](https://httpstatuses.com/)
