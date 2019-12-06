@@ -6,10 +6,17 @@
 
 - [Function Component with hooks - Robin Wieruch - 2019.03.18](https://www.robinwieruch.de/react-function-component)
 
+### Forms
+
+- TODO
+
 ### Patterns
 
 - [React Patterns](https://reactpatterns.com/)
 
+### TypeScript
+
+- [TypeScript Cheatsheet](https://github.com/typescript-cheatsheets/react-typescript-cheatsheet)
 
 ## React Native
 
