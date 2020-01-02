@@ -28,6 +28,11 @@
 - [Official Page](https://material.angular.io/cdk/categories)
 - [Context Menu made easy - Netanel Basal - 2019.01.08](https://netbasal.com/context-menus-made-easy-with-angular-cdk-963797e679fc)
 
+### Component
+
+- [Lazy load Angular v9 components - Brian F Love - 2019.12.13](https://brianflove.com/2019/12/13/lazy-load-angular-v9-components/)
+- [Asynchronous modules and components in Angular with Ivy - Artur Androsovych - 2019.10.08](https://indepth.dev/asynchronous-modules-and-components-in-angular-ivy/)
+
 ### Dependency Injection
 
 - [Writing Configurable Modules - Michele Stieven - 2018.02.21](https://medium.com/@michelestieven/angular-writing-configurable-modules-69e6ea23ea42)
