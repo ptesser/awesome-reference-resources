@@ -30,8 +30,11 @@
 
 ### Component
 
+- [3 Steps to creating dynamic views - Zeng Hou Lim - 2019.11.30](https://medium.com/better-programming/3-steps-to-creating-dynamic-views-in-angular-9df80e3e3d6b)
 - [Lazy load Angular v9 components - Brian F Love - 2019.12.13](https://brianflove.com/2019/12/13/lazy-load-angular-v9-components/)
 - [Asynchronous modules and components in Angular with Ivy - Artur Androsovych - 2019.10.08](https://indepth.dev/asynchronous-modules-and-components-in-angular-ivy/)
+- [Dynamically load a component inside a material dialog - Stackoverflow - 2018.11.01](https://stackoverflow.com/questions/48723439/dynamically-load-a-component-inside-a-material-matdialog)
+
 
 ### Dependency Injection
 
