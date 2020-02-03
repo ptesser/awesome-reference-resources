@@ -139,6 +139,10 @@ Link [here](react/README.md) for React's references and resoruces.
 
 - [NgRok](https://ngrok.com/docs): I want to expose a local server behind a NAT or firewall to the internet.
 
+## Web
+
+- [Saving a remote file](https://github.com/eligrey/FileSaver.js/wiki/Saving-a-remote-file#using-http-header)
+
 ## Wordpress
 
 - [Secure WP](http://code.tutsplus.com/articles/10-steps-to-securing-your-wordpress-installation--wp-21579)
