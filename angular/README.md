@@ -8,6 +8,7 @@
 - [Angular Performance Checklist](https://github.com/mgechev/angular-performance-checklist)
 - [Angular compiler](https://medium.com/@urish/a-deep-deep-deep-deep-deep-dive-into-the-angular-compiler-5379171ffb7a)
 - [Static Query Migration - Angular 8](https://next.angular.io/guide/static-query-migration#what-does-this-flag-mean): refer to migration from v8 to v9
+- [How to load settings data from server before initializing an app - Bhargav Bachina - 2019.02.20](https://medium.com/bb-tutorials-and-thoughts/angular-how-to-load-settings-data-from-server-before-initializing-an-app-78ea206818ee)
 - [Type Checking templates in Angular (ViewEngine vs Ivy) - Alexey Zuev - 2019.07.09](https://blog.angularindepth.com/type-checking-templates-in-angular-viewengine-and-ivy-77f8536359f5)
 - [Hres why you should be excited about Ivy - Kevin Kreuzer - 2019.04.02](https://medium.com/@kevinkreuzer/heres-why-you-should-be-excited-about-ivy-99eb894fa8f2)
 
