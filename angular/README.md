@@ -59,6 +59,7 @@
 - [Template Driven Form Validators - Juri Strumpflohner - 2016.11.01](https://juristr.com/blog/2016/11/ng2-template-driven-form-validators/)
 - [How to implement a custom validator directive confirm password - Jecelyn Yeen - 2017.08.11](https://scotch.io/tutorials/how-to-implement-a-custom-validator-directive-confirm-password-in-angular-2)
 - [Angular 8 Forms Tutorial - Reactive Forms Validation Example - Jonathan Lambert - 2019.06.01](https://morioh.com/p/265b7bee2767)
+- [Building reusable forms in Angular - Cory Rylan - 2019.07.24](https://coryrylan.com/blog/building-reusable-forms-in-angular)
 
 ### Life Cycle Hooks
 
