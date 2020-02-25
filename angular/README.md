@@ -37,7 +37,7 @@
 - [Lazy load Angular v9 components - Brian F Love - 2019.12.13](https://brianflove.com/2019/12/13/lazy-load-angular-v9-components/)
 - [Asynchronous modules and components in Angular with Ivy - Artur Androsovych - 2019.10.08](https://indepth.dev/asynchronous-modules-and-components-in-angular-ivy/)
 - [Dynamically load a component inside a material dialog - Stackoverflow - 2018.11.01](https://stackoverflow.com/questions/48723439/dynamically-load-a-component-inside-a-material-matdialog)
-
+- [Component features with Ivy - Lars Gyrup Brink Nielsen - 2019.12.16](https://indepth.dev/component-features-with-angular-ivy/)
 
 ### Dependency Injection
 
