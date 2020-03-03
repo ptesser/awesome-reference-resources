@@ -109,6 +109,10 @@
 
 - [Getting to know the @Attribute decorator - Netanel Basal - 2018.01.29](https://netbasal.com/getting-to-know-the-attribute-decorator-in-angular-4f7c9fb61243)
 
+### Schematics
+
+- [Total guide to custom Angular schematics - Tomas Trajan - 2019.03.2019](https://medium.com/@tomastrajan/total-guide-to-custom-angular-schematics-5c50cf90cdb4)
+
 ### Tool
 
 - [Compodoc to generate documentation from annotation](https://github.com/compodoc/compodoc)
