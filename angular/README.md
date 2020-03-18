@@ -12,6 +12,7 @@
 - [Type Checking templates in Angular (ViewEngine vs Ivy) - Alexey Zuev - 2019.07.09](https://blog.angularindepth.com/type-checking-templates-in-angular-viewengine-and-ivy-77f8536359f5)
 - [Hres why you should be excited about Ivy - Kevin Kreuzer - 2019.04.02](https://medium.com/@kevinkreuzer/heres-why-you-should-be-excited-about-ivy-99eb894fa8f2)
 - [Tip: Angular, Visual Studio Code e Auto Import - Fabio Biondi - 2020.02.06](https://www.youtube.com/watch?v=StWXxmDMs1w&fbclid=IwAR1-FByI0YGKmlaux_TvHuc1XjXy93l9ti7eFuE_1-mn4f12hASuKLObrDI)
+- [Managing External Links Safely - Cory Rylan - 2019.04.23](https://coryrylan.com/blog/managing-external-links-safely-in-angular)
 
 ### Immutability
 
