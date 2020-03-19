@@ -14,11 +14,6 @@
 - [Tip: Angular, Visual Studio Code e Auto Import - Fabio Biondi - 2020.02.06](https://www.youtube.com/watch?v=StWXxmDMs1w&fbclid=IwAR1-FByI0YGKmlaux_TvHuc1XjXy93l9ti7eFuE_1-mn4f12hASuKLObrDI)
 - [Managing External Links Safely - Cory Rylan - 2019.04.23](https://coryrylan.com/blog/managing-external-links-safely-in-angular)
 
-### Immutability
-
-- [Immutability and Encapsulation by Victor Savkin](http://victorsavkin.com/post/133936129316/angular-immutability-and-encapsulation)
-- [Immutable.js and Redux with Angular 2](https://houssein.me/angular2-hacker-news): article with a tutorial to make a contact list following Redux's pattern and use Immutable structures
-
 ### Change Detection
 
 - [Angular Change Detection - How Does It Really Work? - Angular University Blog - 2018.12.10](https://blog.angular-university.io/how-does-angular-2-change-detection-really-work/)
@@ -48,6 +43,12 @@
 - [Configurare le dipendenze utilizzando useFactory - Fabio Biondi - 2018.07.07](http://training.fabiobiondi.io/2018/07/07/angular-configurare-le-dipendenze-utilizzando-usefactory/)
 - [Understanding provider scope in Angular - J Stepanyan - 2018.05.22](https://itnext.io/understanding-provider-scope-in-angular-4c2589de5bc)
 
+### Decorators
+
+- [Getting to know the @Attribute decorator - Netanel Basal - 2018.01.29](https://netbasal.com/getting-to-know-the-attribute-decorator-in-angular-4f7c9fb61243)
+- [Implementing custom component decorator in Angular - Maxim Koretskyi - 2017.05.28](https://indepth.dev/implementing-custom-component-decorator-in-angular/)
+
+
 ### Directives
 
 - [Everything you need to know about <ng-template>, <ng-content>, <ng-container> and *ngTemplateOutlet in Angular - Prateek Mishra - 2018.10.28](https://medium.freecodecamp.org/everything-you-need-to-know-about-ng-template-ng-content-ng-container-and-ngtemplateoutlet-4b7b51223691)
@@ -63,26 +64,15 @@
 - [Angular 8 Forms Tutorial - Reactive Forms Validation Example - Jonathan Lambert - 2019.06.01](https://morioh.com/p/265b7bee2767)
 - [Building reusable forms in Angular - Cory Rylan - 2019.07.24](https://coryrylan.com/blog/building-reusable-forms-in-angular)
 
+### Immutability
+
+- [Immutability and Encapsulation by Victor Savkin](http://victorsavkin.com/post/133936129316/angular-immutability-and-encapsulation)
+- [Immutable.js and Redux with Angular 2](https://houssein.me/angular2-hacker-news): article with a tutorial to make a contact list following Redux's pattern and use Immutable structures
+
 ### Life Cycle Hooks
 
 - [Creatively Decouple ngOnChanges - Siyang Kern Zhao - 2019.01.07](https://blog.angularindepth.com/creatively-decouple-ngonchanges-fab95395cc6e)
 - [Observable life cycle events - Erik Murphy - 2018.08.01](https://induro.io/blog/2018/08/angular-2-observable_life-cycle_events/)
-
-### RxJS
-
-- [Understanding rxjs BehaviorSubject, ReplaySubject and AsyncSubject - Luuk Gruijs - 2018.05.04](https://medium.com/@luukgruijs/understanding-rxjs-behaviorsubject-replaysubject-and-asyncsubject-8cc061f1cfc0)
-- [The magic of RXJS sharing operators and their differences - J Stepanyan - 2019.02.05](https://itnext.io/the-magic-of-rxjs-sharing-operators-and-their-differences-3a03d699d255)
-- [Magic of RxJS sharing operators and their differences - J Stepanyan - 2019.02.05](https://itnext.io/the-magic-of-rxjs-sharing-operators-and-their-differences-3a03d699d255)
-- [RxViz - Tool to show streams as a marble diagram animated](https://rxviz.com/)
-- [Taking andvantage of Observable](http://blog.thoughtram.io/angular/2016/01/06/taking-advantage-of-observables-in-angular2.html): article about why use Obsearvable instead of Promise. I don't like the way that he uses two obsearvable instead only one in WikipediaService. For me he can use **debounceTime** directly in search method.
-- [Reactive programming for Angular 2](http://blog.angular-university.io/functional-reactive-programming-for-angular-2-developers-rxjs-and-observables/): post that it is going to go over the concept of Functional Reactive Programming from the point of view of an Angular 2 developer
-- [Angular 2 and Functional Programming](http://blog.wolksoftware.com/the-rise-of-functional-programming-and-the-death-of-angularjs)
-- [Unsubscribe pipe operator - Netanel Basal](https://github.com/NetanelBasal/ngx-take-until-destroy)
-- [RxJS: Avoiding takeUntil Leaks - Nicholas Jamieson - 2018.05.27](https://blog.angularindepth.com/rxjs-avoiding-takeuntil-leaks-fb5182d047ef)
-
-### Pipes
-
-- [Memoized pipe functions in templates - Artem Lanovyy - 2019.01.23](https://medium.com/@ineedsomemeat/angular-optimization-memoized-pipe-functions-in-templates-75f62e16df5a)
 
 ### Manage State
 
@@ -102,19 +92,30 @@
 - [Defining Providers in Shared Modules in Angular - 2017.09.14](https://alligator.io/angular/providers-shared-modules/)
 - [Writing configurable modules - Michele Stieven - 2018.02.21](https://medium.com/@michelestieven/angular-writing-configurable-modules-69e6ea23ea42)
 
-### Testing
+### Pipes
 
-- [Unit testing with examples - Mustapha - 2019.10.12](https://dev.to/mustapha/angular-unit-testing-101-with-examples-6mc)
-- [Testing Recepies](http://slides.com/gerardsans/odessajs-testing-recipes#/4/12)
+- [Memoized pipe functions in templates - Artem Lanovyy - 2019.01.23](https://medium.com/@ineedsomemeat/angular-optimization-memoized-pipe-functions-in-templates-75f62e16df5a)
 
-### Decorators
+### RxJS
 
-- [Getting to know the @Attribute decorator - Netanel Basal - 2018.01.29](https://netbasal.com/getting-to-know-the-attribute-decorator-in-angular-4f7c9fb61243)
-- [Implementing custom component decorator in Angular - Maxim Koretskyi - 2017.05.28](https://indepth.dev/implementing-custom-component-decorator-in-angular/)
+- [Understanding rxjs BehaviorSubject, ReplaySubject and AsyncSubject - Luuk Gruijs - 2018.05.04](https://medium.com/@luukgruijs/understanding-rxjs-behaviorsubject-replaysubject-and-asyncsubject-8cc061f1cfc0)
+- [The magic of RXJS sharing operators and their differences - J Stepanyan - 2019.02.05](https://itnext.io/the-magic-of-rxjs-sharing-operators-and-their-differences-3a03d699d255)
+- [Magic of RxJS sharing operators and their differences - J Stepanyan - 2019.02.05](https://itnext.io/the-magic-of-rxjs-sharing-operators-and-their-differences-3a03d699d255)
+- [RxViz - Tool to show streams as a marble diagram animated](https://rxviz.com/)
+- [Taking andvantage of Observable](http://blog.thoughtram.io/angular/2016/01/06/taking-advantage-of-observables-in-angular2.html): article about why use Obsearvable instead of Promise. I don't like the way that he uses two obsearvable instead only one in WikipediaService. For me he can use **debounceTime** directly in search method.
+- [Reactive programming for Angular 2](http://blog.angular-university.io/functional-reactive-programming-for-angular-2-developers-rxjs-and-observables/): post that it is going to go over the concept of Functional Reactive Programming from the point of view of an Angular 2 developer
+- [Angular 2 and Functional Programming](http://blog.wolksoftware.com/the-rise-of-functional-programming-and-the-death-of-angularjs)
+- [Unsubscribe pipe operator - Netanel Basal](https://github.com/NetanelBasal/ngx-take-until-destroy)
+- [RxJS: Avoiding takeUntil Leaks - Nicholas Jamieson - 2018.05.27](https://blog.angularindepth.com/rxjs-avoiding-takeuntil-leaks-fb5182d047ef)
 
 ### Schematics
 
 - [Total guide to custom Angular schematics - Tomas Trajan - 2019.03.2019](https://medium.com/@tomastrajan/total-guide-to-custom-angular-schematics-5c50cf90cdb4)
+
+### Testing
+
+- [Unit testing with examples - Mustapha - 2019.10.12](https://dev.to/mustapha/angular-unit-testing-101-with-examples-6mc)
+- [Testing Recepies](http://slides.com/gerardsans/odessajs-testing-recipes#/4/12)
 
 ### Tool
 
@@ -127,11 +128,11 @@
 - [Creating Behavioral components - Netanel Basal - 2019.09.13](https://netbasal.com/creating-behavioral-components-in-angular-8db6080f0cc4)
 - [Build an infinite scroll component - Netanel Basal - 2019.06.18](https://netbasal.com/build-an-infinite-scroll-component-in-angular-a9c16907a94d)
 
-
 ### UI Kit
 
 - [Carbon Design System](https://angular.carbondesignsystem.com/documentation/index.html)
 - [Clarity VM Design System](https://vmware.github.io/clarity/)
+
 
 ## AngularJS
 
