@@ -55,6 +55,11 @@
 - [Creating Reusable Components with NgTemplateOutlet in Angular - Mark P. Kennedy](https://alligator.io/angular/reusable-components-ngtemplateoutlet/)
 - [The Power of Structural Directives in Angular - Netanel Basal - 2017.05.22](https://netbasal.com/the-power-of-structural-directives-in-angular-bfe4d8c44fb1)
 
+### Elements
+
+- [Understaning the magin behind Angular Elements - Netanel Basal - 2019.07.25](https://netbasal.com/understanding-the-magic-behind-angular-elements-8e6804f32e9f)
+- [Using Angular Elements with NgRX - Santosh Yadav - 2019.04.25](https://medium.com/angular-in-depth/using-angular-elements-with-ngrx-bc655e1eb212): this article contain a section related to build process for use it in external Angular project: "Making changes to run Custom Elements in a static page"
+
 ### Forms
 
 - [Reducing forms boilerplate - Eliran Eliassy - 2019.07.06](https://blog.angularindepth.com/reducing-the-forms-boilerplate-make-your-angular-forms-reusable-ee06d7c07f47)
