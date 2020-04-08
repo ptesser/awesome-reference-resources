@@ -68,6 +68,7 @@
 - [How to implement a custom validator directive confirm password - Jecelyn Yeen - 2017.08.11](https://scotch.io/tutorials/how-to-implement-a-custom-validator-directive-confirm-password-in-angular-2)
 - [Angular 8 Forms Tutorial - Reactive Forms Validation Example - Jonathan Lambert - 2019.06.01](https://morioh.com/p/265b7bee2767)
 - [Building reusable forms in Angular - Cory Rylan - 2019.07.24](https://coryrylan.com/blog/building-reusable-forms-in-angular)
+- [Custom Form Controls - Pascal Precht - 2016.07.27](https://blog.thoughtram.io/angular/2016/07/27/custom-form-controls-in-angular-2.html)
 
 ### Immutability
 
