@@ -54,6 +54,7 @@
 - [Everything you need to know about <ng-template>, <ng-content>, <ng-container> and *ngTemplateOutlet in Angular - Prateek Mishra - 2018.10.28](https://medium.freecodecamp.org/everything-you-need-to-know-about-ng-template-ng-content-ng-container-and-ngtemplateoutlet-4b7b51223691)
 - [Creating Reusable Components with NgTemplateOutlet in Angular - Mark P. Kennedy](https://alligator.io/angular/reusable-components-ngtemplateoutlet/)
 - [The Power of Structural Directives in Angular - Netanel Basal - 2017.05.22](https://netbasal.com/the-power-of-structural-directives-in-angular-bfe4d8c44fb1)
+- [The magic of template references - Alain Chautard - 2017.12.23](https://blog.angulartraining.com/tutorial-the-magic-of-template-reference-variables-3183f0a0d9d1)
 
 ### Elements
 
