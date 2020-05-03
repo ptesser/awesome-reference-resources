@@ -22,6 +22,7 @@
 - [A Comprehensive Guide to Angular onPush Change Detection Strategy - Netanel Basal - 2018.05.01](https://netbasal.com/a-comprehensive-guide-to-angular-onpush-change-detection-strategy-5bac493074a4)
 - [Boosting Performance of Angular Applications with Manual Change Detection - Chidume Nnamdi - 2018.07.07](https://blog.angularindepth.com/boosting-performance-of-angular-applications-with-manual-change-detection-42cb396110fb)
 - [Improve Angular’s performance through memoization and TypeScript decorators - Siyang Kern Zhao - 2018.10.08](https://medium.com/angular-in-depth/how-to-improve-angular-performance-by-just-adding-just-8-characters-877bde708ddd)
+- [10 Things Every Angular Developer Should Know About Zone.js - Matthias Junker - 2019.10.08 ](https://medium.com/better-programming/zone-js-for-angular-devs-573d89bbb890)
 
 ### CDK
 
