@@ -66,6 +66,10 @@ Link [here](bitcoin-ethereum/README.md) for Bitcoin and Ethereum's references an
 - [A cartoon guide to Flux](https://code-cartoons.com/a-cartoon-guide-to-flux-6157355ab207#.vcp7vp88n)
 - [Smart and Dumb Components](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0#.rfzpd427p)
 
+## Docker
+
+- [How to remove docker images, containers and volumes - Melissa Anderson - 2017.12.21](https://www.digitalocean.com/community/tutorials/how-to-remove-docker-images-containers-and-volumes)
+
 ## Functional Programming
 
 - [What is a functor? - Thai Pangsakulyanont - 2015.12.15](https://medium.com/@dtinth/what-is-a-functor-dcf510b098b6)
