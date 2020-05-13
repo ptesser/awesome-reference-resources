@@ -131,6 +131,8 @@
 - [Compodoc to generate documentation from annotation](https://github.com/compodoc/compodoc)
 - [NgRev for reverse engeneering of Angular applications](https://github.com/mgechev/ngrev)
 - [Publishing Angular libraries like a pro - Robert Hjalmers - 2018.10.18](https://medium.com/@hjalmers/publish-angular-libraries-like-a-pro-d6329e1b8ec): this article have some useful tools to enforce commit convention
+- [Sharing components with Angular and Bit - Giancarlo Buomprisco - 2019.10.02](https://blog.bitsrc.io/sharing-components-with-angular-and-bit-b68896806c18)
+- [Building Angular and React applications together with Nx - Victor Savkin - 2019.03.13](https://blog.nrwl.io/building-angular-and-react-applications-together-with-nx-78b5578de598)
 
 ### UI
 
