@@ -13,6 +13,7 @@
 - [Hres why you should be excited about Ivy - Kevin Kreuzer - 2019.04.02](https://medium.com/@kevinkreuzer/heres-why-you-should-be-excited-about-ivy-99eb894fa8f2)
 - [Tip: Angular, Visual Studio Code e Auto Import - Fabio Biondi - 2020.02.06](https://www.youtube.com/watch?v=StWXxmDMs1w&fbclid=IwAR1-FByI0YGKmlaux_TvHuc1XjXy93l9ti7eFuE_1-mn4f12hASuKLObrDI)
 - [Managing External Links Safely - Cory Rylan - 2019.04.23](https://coryrylan.com/blog/managing-external-links-safely-in-angular)
+- [Customize Webpack configuration in your Angular application - Netanel Basal - 2019.06.03](https://netbasal.com/customize-webpack-configuration-in-your-angular-application-d09683f6bd22)
 
 ### Change Detection
 
@@ -28,6 +29,10 @@
 
 - [Official Page](https://material.angular.io/cdk/categories)
 - [Context Menu made easy - Netanel Basal - 2019.01.08](https://netbasal.com/context-menus-made-easy-with-angular-cdk-963797e679fc)
+
+### CLI
+
+- [Demystifyng the workspace - Benjamin Cabanes - 2019.04.10](https://blog.nrwl.io/angular-cli-demystifying-the-workspace-7f59ffaab4cb)
 
 ### Component
 
@@ -77,6 +82,10 @@
 
 - [Immutability and Encapsulation by Victor Savkin](http://victorsavkin.com/post/133936129316/angular-immutability-and-encapsulation)
 - [Immutable.js and Redux with Angular 2](https://houssein.me/angular2-hacker-news): article with a tutorial to make a contact list following Redux's pattern and use Immutable structures
+
+### Integration
+
+- [Google APIs with Angular - Vojtech Mašek - 2019.10.24](https://medium.com/angular-in-depth/google-apis-with-angular-214fadb8fbc5)
 
 ### Life Cycle Hooks
 
@@ -139,11 +148,13 @@
 - [Creating Behavioral components - Netanel Basal - 2019.09.13](https://netbasal.com/creating-behavioral-components-in-angular-8db6080f0cc4)
 - [Build an infinite scroll component - Netanel Basal - 2019.06.18](https://netbasal.com/build-an-infinite-scroll-component-in-angular-a9c16907a94d)
 
+
 ### UI Kit
 
 - [Carbon Design System](https://angular.carbondesignsystem.com/documentation/index.html)
 - [Clarity VM Design System](https://vmware.github.io/clarity/)
 
+-------------------------------------------------------
 
 ## AngularJS
 
