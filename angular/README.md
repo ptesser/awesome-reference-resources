@@ -114,6 +114,10 @@
 
 - [Memoized pipe functions in templates - Artem Lanovyy - 2019.01.23](https://medium.com/@ineedsomemeat/angular-optimization-memoized-pipe-functions-in-templates-75f62e16df5a)
 
+### Router
+
+- [Angular Preloading Strategy - 2019.02.17](https://www.tektutorialshub.com/angular/angular-preloading-strategy/)
+
 ### RxJS
 
 - [Understanding rxjs BehaviorSubject, ReplaySubject and AsyncSubject - Luuk Gruijs - 2018.05.04](https://medium.com/@luukgruijs/understanding-rxjs-behaviorsubject-replaysubject-and-asyncsubject-8cc061f1cfc0)
