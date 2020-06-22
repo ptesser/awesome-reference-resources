@@ -140,6 +140,12 @@ Link [here](react/README.md) for React's references and resoruces.
 - [Filtering Types with Correct Type Inference in RxJS - John Crowson - 2019.03.28](https://medium.com/ngconf/filtering-types-with-correct-type-inference-in-rxjs-f4edf064880d)
 - [A Gentle Introduction to TypeScript Decorators - Idan Dardikman - 2018.11.06](https://medium.com/iqoqo-engineering/understand-typescript-decorators-in-5-minutes-26ffc6189082) 
 
+## Search Engine
+
+- [JS Search - bvaughn](https://github.com/bvaughn/js-search)
+- [Lunr JS - olivernn](https://github.com/olivernn/lunr.js)
+- [Minisearch client side fulltext - Luca Ongaro - 2019.01.30](https://lucaongaro.eu/blog/2019/01/30/minisearch-client-side-fulltext-search-engine.html)
+
 ## Utilities
 
 - [NgRok](https://ngrok.com/docs): I want to expose a local server behind a NAT or firewall to the internet.
