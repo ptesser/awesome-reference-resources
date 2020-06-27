@@ -138,7 +138,8 @@ Link [here](react/README.md) for React's references and resoruces.
 ## TypeScript
 
 - [Filtering Types with Correct Type Inference in RxJS - John Crowson - 2019.03.28](https://medium.com/ngconf/filtering-types-with-correct-type-inference-in-rxjs-f4edf064880d)
-- [A Gentle Introduction to TypeScript Decorators - Idan Dardikman - 2018.11.06](https://medium.com/iqoqo-engineering/understand-typescript-decorators-in-5-minutes-26ffc6189082) 
+- [A Gentle Introduction to TypeScript Decorators - Idan Dardikman - 2018.11.06](https://medium.com/iqoqo-engineering/understand-typescript-decorators-in-5-minutes-26ffc6189082)
+- [How to write a TS library - 2020.04.01](https://www.tsmean.com/articles/how-to-write-a-typescript-library/)
 
 ## Search Engine
 
