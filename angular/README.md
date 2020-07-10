@@ -102,6 +102,7 @@
 - [Managing state with Redux](https://medium.com/front-end-hacking/managing-state-in-angular-apps-with-ngrx-store-and-ngrx-effects-part-1-a878addba622): it shows how to manage the state using @ngrx/store and @ngrx/effects
 - [Different type of state's application](https://blog.nrwl.io/using-ngrx-4-to-manage-state-in-angular-applications-64e7a1f84b7b)
 - [Angular 2 with @ngrx](http://onehungrymind.com/build-better-angular-2-application-redux-ngrx/): old but good article to understand the different components involved;
+- [Listening for actions in NgRx - Netanel Basal - 2017.07.04](https://netbasal.com/listening-for-actions-in-ngrx-store-a699206d2210)
 
 ### Organizing Application
 
