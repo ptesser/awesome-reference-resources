@@ -13,12 +13,13 @@
 - [Js from scratch](https://github.com/verekia/js-stack-from-scratch): modern JavaScript stack tutorial
 - [Good tutorials](http://xahlee.info/js/js.html)
 
-### Dates
+### Date
 
 - https://www.w3.org/TR/NOTE-datetime
 - [Handling time zone in Javascript - Toast UI - 2019.01.18](https://medium.com/@toastui/handling-time-zone-in-javascript-547e67aa842d)
 - [Date and time in detail - JavaScript Jeep - 2019.06.02](https://levelup.gitconnected.com/javascript-date-and-time-in-detail-270e85a68124)
-
+- [Dates and Times in JavaScript - 2020.06.23](https://blogs.igalia.com/compilers/2020/06/23/dates-and-times-in-javascript/)
+- [Fixing Javascript date, Getting Started - Maggie Pint - 2017.04.09](https://maggiepint.com/2017/04/09/fixing-javascript-date-getting-started/)
 ### DOM
 
 - [DOM, Quick and Simple](http://prettydiff.com/guide/unrelated_dom.xhtml)
