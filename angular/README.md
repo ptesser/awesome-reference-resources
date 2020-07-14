@@ -87,6 +87,10 @@
 
 - [Google APIs with Angular - Vojtech Mašek - 2019.10.24](https://medium.com/angular-in-depth/google-apis-with-angular-214fadb8fbc5)
 
+### Libray
+
+- [Create your standalone library - Jérémy Bardon - 2020.03.27](https://indepth.dev/create-your-standalone-angular-library-in-10-minutes/)
+
 ### Life Cycle Hooks
 
 - [Creatively Decouple ngOnChanges - Siyang Kern Zhao - 2019.01.07](https://blog.angularindepth.com/creatively-decouple-ngonchanges-fab95395cc6e)
