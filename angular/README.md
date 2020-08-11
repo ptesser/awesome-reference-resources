@@ -157,7 +157,7 @@
 
 - [Creating Behavioral components - Netanel Basal - 2019.09.13](https://netbasal.com/creating-behavioral-components-in-angular-8db6080f0cc4)
 - [Build an infinite scroll component - Netanel Basal - 2019.06.18](https://netbasal.com/build-an-infinite-scroll-component-in-angular-a9c16907a94d)
-
+- [Learning Angular component design patterns from Material components](https://levelup.gitconnected.com/learn-angular-component-design-patterns-from-material-components-58f8d072854a)
 
 ### UI Kit
 
