@@ -114,6 +114,7 @@
 - [Becoming an Angular Environmentalist - Todd Palmer - 2018.07.19](https://blog.angularindepth.com/becoming-an-angular-environmentalist-45a48f7c20d8)
 - [Defining Providers in Shared Modules in Angular - 2017.09.14](https://alligator.io/angular/providers-shared-modules/)
 - [Writing configurable modules - Michele Stieven - 2018.02.21](https://medium.com/@michelestieven/angular-writing-configurable-modules-69e6ea23ea42)
+- [Context menu actions at scale command pattern - Maciej Sawicki - 2019.11.09](https://dev.to/humberd/context-menu-actions-at-scale-command-pattern-in-a-real-life-scenario-9o0)
 
 ### Pipes
 
