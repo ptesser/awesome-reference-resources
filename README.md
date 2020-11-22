@@ -88,6 +88,9 @@ Link [here](bitcoin-ethereum/README.md) for Bitcoin and Ethereum's references an
 - [Solve native path of Android content - Carlos Delgado - 2016.11.09](https://ourcodeworld.com/articles/read/22/solve-native-path-of-android-content-if-resolvelocalfilesystemurl-doesn-t-work)
 - [Storing photos with the camera and file plugin - Matt Netkow - 2019.08.30](https://ionicframework.com/blog/storing-photos-with-the-cordova-camera-and-file-plugins/)
 - [How to create an image file from a base64 string on the device with Cordova - Carlos Delgado  - 2016.05.26](https://ourcodeworld.com/articles/read/150/how-to-create-an-image-file-from-a-base64-string-on-the-device-with-cordova)
+- [In App Purchase with Ionic / Cordova - Hamza Hsain - 2019.06.29](https://medium.com/bewizyu/in-app-purchase-with-ionic-cordova-18960239f989)
+- [How to use Ionic In App Purchase with Capacitor - 2020.06.16](https://devdactic.com/ionic-in-app-purchase-capacitor/)
+
 
 ## In App Purchase
 
