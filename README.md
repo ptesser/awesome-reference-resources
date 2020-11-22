@@ -89,6 +89,10 @@ Link [here](bitcoin-ethereum/README.md) for Bitcoin and Ethereum's references an
 - [Storing photos with the camera and file plugin - Matt Netkow - 2019.08.30](https://ionicframework.com/blog/storing-photos-with-the-cordova-camera-and-file-plugins/)
 - [How to create an image file from a base64 string on the device with Cordova - Carlos Delgado  - 2016.05.26](https://ourcodeworld.com/articles/read/150/how-to-create-an-image-file-from-a-base64-string-on-the-device-with-cordova)
 
+## In App Purchase
+
+- [Configure play service credentials for Server validation](https://docs.revenuecat.com/docs/creating-play-service-credentials): last step is only for RevenueCat service (not for general configuration)
+
 ## JSON (JavaScript Notation Object)
 - [Subtle JSON Vulnerability](http://haacked.com/archive/2008/11/20/anatomy-of-a-subtle-json-vulnerability.aspx/)
 
