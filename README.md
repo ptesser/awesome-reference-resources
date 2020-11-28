@@ -90,16 +90,18 @@ Link [here](bitcoin-ethereum/README.md) for Bitcoin and Ethereum's references an
 - [How to create an image file from a base64 string on the device with Cordova - Carlos Delgado  - 2016.05.26](https://ourcodeworld.com/articles/read/150/how-to-create-an-image-file-from-a-base64-string-on-the-device-with-cordova)
 - [In App Purchase with Ionic / Cordova - Hamza Hsain - 2019.06.29](https://medium.com/bewizyu/in-app-purchase-with-ionic-cordova-18960239f989)
 - [How to use Ionic In App Purchase with Capacitor - 2020.06.16](https://devdactic.com/ionic-in-app-purchase-capacitor/)
-
+- [How to add push notifications to your Cordova app in iOS and Android, using Firebase (done right in 2020) - 2020.01.06](https://medium.com/@carlospcpro/how-to-add-push-notifications-to-your-cordova-app-in-ios-and-android-using-firebase-done-right-4f6c64dc50f0)
 
 ## In App Purchase
 
 - [Configure play service credentials for Server validation](https://docs.revenuecat.com/docs/creating-play-service-credentials): last step is only for RevenueCat service (not for general configuration)
 
 ## JSON (JavaScript Notation Object)
+
 - [Subtle JSON Vulnerability](http://haacked.com/archive/2008/11/20/anatomy-of-a-subtle-json-vulnerability.aspx/)
 
 ## JavaScript
+
 Link [here](javascript/README.md) for JS's references and resources.
 
 ## Numbers
@@ -107,6 +109,7 @@ Link [here](javascript/README.md) for JS's references and resources.
 - [The floating point Guide](https://floating-point-gui.de/)
 
 ## PHP
+
 Link [here](php/README.md) for PHP's references and resources.
 
 ## React
@@ -121,6 +124,7 @@ Link [here](react/README.md) for React's references and resoruces.
 - [Which Operator](https://github.com/Reactive-Extensions/RxJS/blob/master/doc/gettingstarted/which-instance.md)
 
 ### Video
+
 - [RxJS explained by  Ben Lesh](https://www.youtube.com/watch?v=KOOT7BArVHQ)
 
 
