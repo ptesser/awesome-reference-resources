@@ -139,6 +139,7 @@
 ### Schematics
 
 - [Total guide to custom Angular schematics - Tomas Trajan - 2019.03.2019](https://medium.com/@tomastrajan/total-guide-to-custom-angular-schematics-5c50cf90cdb4)
+- [Generatic custom Angular code with the CLI and other parts - 2018.03.04](https://www.angulararchitects.io/aktuelles/generating-custom-angular-code-with-the-cli-and-schematics-part-iii/)
 
 ### Testing
 
@@ -190,14 +191,17 @@
 - [Official Git Commit Message Conventions](https://docs.google.com/document/d/1QrDFcIiPjSLDn3EL15IJygNPiHORgU1_OOAqWjiDU5Y/edit#)
 
 ### Form validation
+
 - [Learn basic validation](http://tutsnare.com/form-validation-with-angularjs/)
 
 ### Security
+
 - [Authentication routing](http://www.sitepoint.com/implementing-authentication-angular-applications/)
 - [OAuth2 with Angular, the right way](https://jeremymarc.github.io/2014/08/14/oauth2-with-angular-the-right-way/)
 - [Token Based Authentication for Single Page](https://stormpath.com/blog/token-auth-spa/)
 
 ### Testing
+
 - [Unit test for promises](http://www.bradoncode.com/blog/2015/07/13/unit-test-promises-angualrjs-q/)
 
 ## Deploy
