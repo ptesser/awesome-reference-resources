@@ -1,15 +1,17 @@
 # Awesome Reference and Resources
 
-
 ## Amazon Web Services
 
 ### CLI
+
 - [Creating new EC2 Instance via CLI](https://www.youtube.com/watch?v=3Rj1jYLO214)
 
 ### ELB (Elastic Load Balancing)
+
 - [ELB with a custom DNS name via AWS Route 53](http://docs.aws.amazon.com/ElasticLoadBalancing/latest/DeveloperGuide/using-domain-names-with-elb.html)
 
 ## Angular
+
 Link [here](angular/README.md) for Angular and AngularJS  references and resoruces.
 
 ## Apache
@@ -37,9 +39,11 @@ Link [here](angular/README.md) for Angular and AngularJS  references and resoruc
 Link [here](bitcoin-ethereum/README.md) for Bitcoin and Ethereum's references and resources.
 
 ## Books
+
 - A lot of free books if published before 2014, otherwise you must subscribe a premium account: https://www.geekbooks.me/category
 
 ## CSS
+
 - [Do you even Flexbox - Zeeshaan Maudarbocus - 2019.04.29](https://medium.freecodecamp.org/do-you-even-flex-box-c16449cfca96?fbclid=IwAR1eVwUYPJwVfJbYlzp9pi82fonWcC6pHepjBJTQaqMmgaLR4rFMDx0H98I)
 - [A guide to Flexbox - CSS Tricks - 2019.05.13](https://css-tricks.com/snippets/css/a-guide-to-flexbox/#flexbox-background)
 - [Maintainable CSS](http://maintainablecss.com/chapters/reuse/): an approach to architecting and writing CSS that helps you and your team write modular, scalable and maintainable code. It’s a set of principles, guides and conventions that help you write CSS for large or small scale websites;
@@ -51,15 +55,18 @@ Link [here](bitcoin-ethereum/README.md) for Bitcoin and Ethereum's references an
 - [CSS Flicker on hover - linxea - 2018.10.02](https://dev.to/linxea/css-flicker-on-hover-5gj5)
 
 ### Naming convention
+
 - [BEM CSS Tricks](https://css-tricks.com/bem-101/): article that explains BEM's methodology
 - [BEMIT naming](http://www.jamesturneronline.net/beautifulweb/bemit-naming-convention.html): mix of BEM and ITCSS naming conventions
 - [BEM, OOCSS, SMACSS styleguide](http://timhartmann.net/frontend-development/scss-styleguide-with-bem-oocss-smacss/)
 
 ## Date and Time
+
 - https://www.w3.org/International/articles/definitions-time/
 - [The complexity of time data programming - Heimir Sverrisson - 2019.08.05](https://www.mojotech.com/blog/the-complexity-of-time-data-programming/)
 
 ## Design Patterns
+
 - [Obsever](https://dellabate.wordpress.com/2012/03/03/gof-patterns-observer/): a simple article that explain Observer pattern in italian language
 - [Flux vs MVC](https://medium.com/hacking-and-gonzo/flux-vs-mvc-design-patterns-57b28c0f71b7#.szg4ax6lp): article that talks about a new Flux pattern to structure client side applications and how it relates to the MVC pattern
 - [A cartoon intro to Redux](https://code-cartoons.com/a-cartoon-intro-to-redux-3afb775501a6#.aksa2g9zf)
@@ -91,6 +98,7 @@ Link [here](bitcoin-ethereum/README.md) for Bitcoin and Ethereum's references an
 - [In App Purchase with Ionic / Cordova - Hamza Hsain - 2019.06.29](https://medium.com/bewizyu/in-app-purchase-with-ionic-cordova-18960239f989)
 - [How to use Ionic In App Purchase with Capacitor - 2020.06.16](https://devdactic.com/ionic-in-app-purchase-capacitor/)
 - [How to add push notifications to your Cordova app in iOS and Android, using Firebase (done right in 2020) - 2020.01.06](https://medium.com/@carlospcpro/how-to-add-push-notifications-to-your-cordova-app-in-ios-and-android-using-firebase-done-right-4f6c64dc50f0)
+- [Cordova fovea purchase documentation](https://purchase.cordova.fovea.cc/introduction): it explains well 
 
 ## In App Purchase
 
