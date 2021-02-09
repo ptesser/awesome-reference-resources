@@ -150,6 +150,10 @@ Link [here](react/README.md) for React's references and resoruces.
 
 - [Explain JWT video](https://www.youtube.com/watch?v=WzfJgCOMIsU). he use AngularJs as a front-end framework, but it's the same thing for the other systems.
 
+## Test
+
+- [End-to-End Testing with Cypress and Auth0 - Dan Lourenco - 2019.01.22](https://auth0.com/blog/end-to-end-testing-with-cypress-and-auth0/)
+
 ## Types
 
 - [A Primer on Type Systems - Glenn G. Chappell - 2018.01.29](https://www.cs.uaf.edu/users/chappell/public_html/class/2018_spr/cs331/docs/types_primer.html)
