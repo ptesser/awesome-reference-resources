@@ -61,7 +61,8 @@
 - [Creating Reusable Components with NgTemplateOutlet in Angular - Mark P. Kennedy](https://alligator.io/angular/reusable-components-ngtemplateoutlet/)
 - [The Power of Structural Directives in Angular - Netanel Basal - 2017.05.22](https://netbasal.com/the-power-of-structural-directives-in-angular-bfe4d8c44fb1)
 - [The magic of template references - Alain Chautard - 2017.12.23](https://blog.angulartraining.com/tutorial-the-magic-of-template-reference-variables-3183f0a0d9d1)
-
+- [Typing the context object in Angular structural directive - Netanel Basal](https://netbasal.com/typing-the-context-object-in-angular-structural-directives-d0ad1c0474a)
+  
 ### Elements
 
 - [Understaning the magin behind Angular Elements - Netanel Basal - 2019.07.25](https://netbasal.com/understanding-the-magic-behind-angular-elements-8e6804f32e9f)
