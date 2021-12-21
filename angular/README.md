@@ -88,6 +88,10 @@
 
 - [Google APIs with Angular - Vojtech Mašek - 2019.10.24](https://medium.com/angular-in-depth/google-apis-with-angular-214fadb8fbc5)
 
+### IVY
+  
+- [Angular IVY library compilation design in depth - 2021.02](https://blog.lacolaco.net/2021/02/angular-ivy-library-compilation-design-in-depth-en/)
+  
 ### Libray
 
 - [Create your standalone library - Jérémy Bardon - 2020.03.27](https://indepth.dev/create-your-standalone-angular-library-in-10-minutes/)
