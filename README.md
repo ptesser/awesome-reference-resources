@@ -44,6 +44,7 @@ Link [here](bitcoin-ethereum/README.md) for Bitcoin and Ethereum's references an
 
 ## CSS
 
+- [Styling in the Shadow DOM With CSS Shadow Parts - 2020.10.28](https://css-tricks.com/styling-in-the-shadow-dom-with-css-shadow-parts/#aa-styling-shadow-dom-with-part)
 - [Do you even Flexbox - Zeeshaan Maudarbocus - 2019.04.29](https://medium.freecodecamp.org/do-you-even-flex-box-c16449cfca96?fbclid=IwAR1eVwUYPJwVfJbYlzp9pi82fonWcC6pHepjBJTQaqMmgaLR4rFMDx0H98I)
 - [A guide to Flexbox - CSS Tricks - 2019.05.13](https://css-tricks.com/snippets/css/a-guide-to-flexbox/#flexbox-background)
 - [Maintainable CSS](http://maintainablecss.com/chapters/reuse/): an approach to architecting and writing CSS that helps you and your team write modular, scalable and maintainable code. It’s a set of principles, guides and conventions that help you write CSS for large or small scale websites;
@@ -178,6 +179,10 @@ Link [here](react/README.md) for React's references and resoruces.
 ## Web
 
 - [Saving a remote file](https://github.com/eligrey/FileSaver.js/wiki/Saving-a-remote-file#using-http-header)
+
+## WebComponents
+
+- [Web Component Best Practices - 2022.03.14](https://cianfrani.dev/posts/web-component-best-practices/)
 
 ## Wordpress
 
