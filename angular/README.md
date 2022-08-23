@@ -147,6 +147,11 @@
 - [Total guide to custom Angular schematics - Tomas Trajan - 2019.03.2019](https://medium.com/@tomastrajan/total-guide-to-custom-angular-schematics-5c50cf90cdb4)
 - [Generatic custom Angular code with the CLI and other parts - 2018.03.04](https://www.angulararchitects.io/aktuelles/generating-custom-angular-code-with-the-cli-and-schematics-part-iii/)
 
+### ServerSideRendering and Static Site Generator
+
+- [Boost Angular performance by rendering in pages with Scully - 2022.01.19](https://www.bitovi.com/blog/boost-angular-performance-by-rendering-pages-with-scully)
+- [Scully or Angular Universal, what is the difference - 2020.05.01](https://samvloeberghs.be/posts/scully-or-angular-universal-what-is-the-difference/#:~:text=Scully%20instructs%20Puppeteer%20to%20load,the%20specific%20route%20is%20executed.)
+
 ### Testing
 
 - [Unit testing with examples - Mustapha - 2019.10.12](https://dev.to/mustapha/angular-unit-testing-101-with-examples-6mc)
