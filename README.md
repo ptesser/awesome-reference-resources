@@ -162,6 +162,8 @@ Link [here](react/README.md) for React's references and resoruces.
 
 ## TypeScript
 
+- [Using TypeScript infer like a pro - 2022.09.11](https://levelup.gitconnected.com/using-typescript-infer-like-a-pro-f30ab8ab41c7)
+- [Using TypeScript conditional types like a pro](https://javascript.plainenglish.io/use-typescript-conditional-types-like-a-pro-7baea0ad05c5)
 - [Filtering Types with Correct Type Inference in RxJS - John Crowson - 2019.03.28](https://medium.com/ngconf/filtering-types-with-correct-type-inference-in-rxjs-f4edf064880d)
 - [A Gentle Introduction to TypeScript Decorators - Idan Dardikman - 2018.11.06](https://medium.com/iqoqo-engineering/understand-typescript-decorators-in-5-minutes-26ffc6189082)
 - [How to write a TS library - 2020.04.01](https://www.tsmean.com/articles/how-to-write-a-typescript-library/)
