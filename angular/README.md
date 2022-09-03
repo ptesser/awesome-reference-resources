@@ -127,6 +127,10 @@
 
 - [Memoized pipe functions in templates - Artem Lanovyy - 2019.01.23](https://medium.com/@ineedsomemeat/angular-optimization-memoized-pipe-functions-in-templates-75f62e16df5a)
 
+### React in Angular
+
+- [Using React in Angular applications - 2022.08.30](https://netbasal.com/using-react-in-angular-applications-1bb907ecac91)
+  
 ### Router
 
 - [Angular Preloading Strategy - 2019.02.17](https://www.tektutorialshub.com/angular/angular-preloading-strategy/)
