@@ -44,6 +44,7 @@
 
 ### Dependency Injection
 
+- [Using DI inject istead of constructor - 2022.09.02](https://netbasal.com/angular-di-using-inject-instead-of-constructor-d0782d434fb1)
 - [Writing Configurable Modules - Michele Stieven - 2018.02.21](https://medium.com/@michelestieven/angular-writing-configurable-modules-69e6ea23ea42)
 - [Total Guide To Angular 6+ Dependency Injection — providedIn vs providers: - Tomas Trajan - 2018.11.06](https://medium.com/@tomastrajan/total-guide-to-angular-6-dependency-injection-providedin-vs-providers-85b7a347b59f) 
 - [Configurare le dipendenze utilizzando useFactory - Fabio Biondi - 2018.07.07](http://training.fabiobiondi.io/2018/07/07/angular-configurare-le-dipendenze-utilizzando-usefactory/)
