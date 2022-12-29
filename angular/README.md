@@ -15,6 +15,12 @@
 - [Managing External Links Safely - Cory Rylan - 2019.04.23](https://coryrylan.com/blog/managing-external-links-safely-in-angular)
 - [Customize Webpack configuration in your Angular application - Netanel Basal - 2019.06.03](https://netbasal.com/customize-webpack-configuration-in-your-angular-application-d09683f6bd22)
 
+
+### Astro
+
+- [Brining Angular components to Astro islands](https://dev.to/brandontroberts/bringing-angular-components-to-astro-islands-52jp)
+
+
 ### Change Detection
 
 - [Angular Change Detection - How Does It Really Work? - Angular University Blog - 2018.12.10](https://blog.angular-university.io/how-does-angular-2-change-detection-really-work/)
