@@ -97,6 +97,7 @@ Link [here](bitcoin-ethereum/README.md) for Bitcoin and Ethereum's references an
 - [Git aliases to improve own workflow](http://git-scm.com/book/en/v2/Git-Basics-Git-Aliases)
 - [Autocompletion for git bash commands](http://code-worrier.com/blog/autocomplete-git/)
 - [Use git in local without insert password everytime with https clone](http://stackoverflow.com/questions/5343068/is-there-a-way-to-skip-password-typing-when-using-https-github)
+- [Undestanding GIT through images](https://dev.to/nopenoshishi/understanding-git-through-images-4an1)
 
 ## Ionic
 
