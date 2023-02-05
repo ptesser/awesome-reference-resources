@@ -55,6 +55,9 @@ Link [here](bitcoin-ethereum/README.md) for Bitcoin and Ethereum's references an
 - [Comprehensive Guide: When to Use Em vs. Rem - Kezz Bracey - 2015.07.21](https://webdesign.tutsplus.com/tutorials/comprehensive-guide-when-to-use-em-vs-rem--cms-23984)
 - [CSS Flicker on hover - linxea - 2018.10.02](https://dev.to/linxea/css-flicker-on-hover-5gj5)
 - [Design System performance with Clarity core web components](https://medium.com/claritydesignsystem/design-system-performance-with-clarity-core-web-components-fbab56516f30)
+- [About HTML semantics and front-end architecture - 2012](https://nicolasgallagher.com/about-html-semantics-front-end-architecture/)
+- [CSS Utility Classes and "Separation of Concerns" - 2017](https://adamwathan.me/css-utility-classes-and-separation-of-concerns/)
+- [When to use @extend; when to use a mixin - 2014](https://csswizardry.com/2014/11/when-to-use-extend-when-to-use-a-mixin/)
 
 ### Naming convention
 
