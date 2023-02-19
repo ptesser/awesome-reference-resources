@@ -143,6 +143,7 @@ Link [here](react/README.md) for React's references and resoruces.
 - [The introduction to Reactive Programming you've been missing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
 - [Which Static](https://github.com/Reactive-Extensions/RxJS/blob/master/doc/gettingstarted/which-static.md)
 - [Which Operator](https://github.com/Reactive-Extensions/RxJS/blob/master/doc/gettingstarted/which-instance.md)
+- [useSignal() is the Future of Web Frameworks - 2023.02.16](https://www.builder.io/blog/usesignal-is-the-future-of-web-frameworks)
 
 ### Video
 
