@@ -58,6 +58,7 @@ Link [here](bitcoin-ethereum/README.md) for Bitcoin and Ethereum's references an
 - [About HTML semantics and front-end architecture - 2012](https://nicolasgallagher.com/about-html-semantics-front-end-architecture/)
 - [CSS Utility Classes and "Separation of Concerns" - 2017](https://adamwathan.me/css-utility-classes-and-separation-of-concerns/)
 - [When to use @extend; when to use a mixin - 2014](https://csswizardry.com/2014/11/when-to-use-extend-when-to-use-a-mixin/)
+- [CSS Tips for Better Web Development - 2023.02.15](https://www.builder.io/blog/css-tips-for-better-web-development)
 
 ### Naming convention
 
